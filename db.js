@@ -331,6 +331,338 @@ module.exports = {
       summary: "I am a financial services professional with 3 years of experience in corporate finance at Goldman Sachs and one year in venture capital. Upon graduating from Stanford Business School in June 2020, I am seeking a position in private equity or venture capital."
     }
   ],
+  authors: [
+    {
+      id: 1,
+      name: "Claudio Bonfati",
+      email: "claudio.bonfati@example.com",
+      twitter: "claudioexample",
+      skype: "claudioexample",
+      photo: "https://i.pravatar.cc/500",
+      place: "São Paulo, Brazil",
+      headline: "Software Engineer",
+      summary: "I am a full stack developer with a strong background knowledge in web development. Beign apart of the development of projects since the beginning until it takes a live of its own is one of the things I love the most.\n\nJavascript, Typescript, React, PHP, Angular 2, SQL, MySQL, GraphQL, Node, Express, MongoDB, Vue, Nuxt, (LESS, SASS, SCSS, CSS/CSS3), WordPress. "
+    },
+    {
+      id: 2,
+      name: "Grayce A. Joseph",
+      email: "GrayceAJoseph@teleworm.us",
+      twitter: "grayceajoseph",
+      skype: "grayceajoseph",
+      photo: "https://i.pravatar.cc/500",
+      place: "Washington, US",
+      headline: "Salesforce",
+      summary: "I have over 15 years of experience working in product management and data science. Currently, I work as the Head of Product Management at Resume Worded, where I lead a cross-functional team of seven, building unique products that are helping people achieve more in their careers! I'm deeply passionate about creating loved and trusted products that help people navigate their careers and achieve their career goals."
+    },
+    {
+      id: 3,
+      name: "Lucas Paige",
+      email: "lucas.paige@example.com",
+      twitter: "lucaspaige",
+      skype: "lucaspaige",
+      photo: "https://i.pravatar.cc/500",
+      place: "São Paulo, Brazil",
+      headline: "Full Stack Engineer",
+      summary: "Previously, I worked at ABC Startup as a Lead Data Scientist, improving products and services for our customers by using advanced analytics, setting up big-data analytical tools (i.e. Hadoop, BigQuery), creating and maintaining models, and onboarding new data sets."
+    },
+    {
+      id: 4,
+      name: "Rebecca Terry",
+      email: "rebecca.terry@example.com",
+      twitter: "rebeccaterry",
+      skype: "rebeccaterry",
+      photo: "https://i.pravatar.cc/500",
+      place: "London, United Kingdom",
+      headline: "Certified HR Trainer",
+      summary: "I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning."
+    },
+    {
+      id: 5,
+      name: "Virginia Lyman",
+      email: "virginia.lyman@example.com",
+      twitter: "virginialyman",
+      skype: "virginialyman",
+      photo: "https://i.pravatar.cc/500",
+      place: "São Paulo, Brazil",
+      headline: "Social Media Manager",
+      summary: "My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders. I am able to jump across verticals to deliver high-performing AI solutions."
+    },
+    {
+      id: 6,
+      name: "Eric Butler",
+      email: "eric.butler@example.com",
+      twitter: "ericbutler",
+      skype: "ericbutler",
+      photo: "https://i.pravatar.cc/500",
+      place: "Washington, US",
+      headline: "Content Marketing Strategist",
+      summary: "Every brand has a story behind it - whether that is one that leaves customers feeling informed and educated, or one that sparks joy and delight. I'm passionate about not only defining and articulating that story, but also developing and implementing integrated marketing plans which companies can utilize to tell that story and maximize their reach."
+    },
+    {
+      id: 7,
+      name: "Samantha Howard",
+      email: "samantha.howard@example.com",
+      twitter: "samanthahoward",
+      skype: "samanthahoward",
+      photo: "https://i.pravatar.cc/500",
+      place: "Paris, France",
+      headline: "VP, Brand Management",
+      summary: "My passion for communication drew me to public relations and marketing, where I have worked with clients across a range of industries, including retail, education and technology. Until recently, I was a marketing specialist for Resume Worded, the education technology company that is at the forefront of Artificial Intelligence in the EdTech and recruitment space. In this role, I had the opportunity to create multiple integrated marketing campaigns across social, email, PPC and content."
+    },
+    {
+      id: 8,
+      name: "John McDonald",
+      email: "john.mcdonald@example.com",
+      twitter: "johnmcdonald",
+      skype: "johnmcdonald",
+      photo: "https://i.pravatar.cc/500",
+      place: "London, United Kingdom",
+      headline: "CPM-certified Product Manager",
+      summary: "I'm currently freelancing and I'm open to new opportunities starting January. Please feel free to get in touch with me on welove@resumeworded.com and we can explore how I can help."
+    },
+    {
+      id: 9,
+      name: "Sebastian Morrison",
+      email: "sebastian.morrison@example.com",
+      twitter: "sebastianmorrison",
+      skype: "sebastianmorrison",
+      photo: "https://i.pravatar.cc/500",
+      place: "Montreal, Canada",
+      headline: "Marketing Manager",
+      summary: "Every brand has a story behind it - whether that is one that leaves customers feeling informed and educated, or one that sparks joy and delight. I'm passionate about not only defining and articulating that story, but also developing and implementing integrated marketing plans which companies can utilize to tell that story and maximize their reach."
+    },
+    {
+      id: 10,
+      name: "Bernadette Lyman",
+      email: "bernadette.lyman@example.com",
+      twitter: "bernadettelyman",
+      skype: "bernadettelyman",
+      photo: "https://i.pravatar.cc/500",
+      place: "Paris, France",
+      headline: "HR Director",
+      summary: "We're living in an exhilarating time where you can reach millions of people through so many different channels. That being said, to build a brand, you need to identify the right audience and craft the right story."
+    },
+    {
+      id: 11,
+      name: "Eric Hughes",
+      email: "eric.hughes@example.com",
+      twitter: "erichughes",
+      skype: "erichughes",
+      photo: "https://i.pravatar.cc/500",
+      place: "Washington, US",
+      headline: "Content Marketing Strategist",
+      summary: "One of the marketing campaigns I led involved creating a viral video on the future of work, which generated incredible media buzz (300k+ views) and was critical to the successful launch of the LinkedIn Review product (2019). Some of my previous experiences includes being on the marketing team for BigNameCo and developing their launch strategy for ABC product."
+    },
+    {
+      id: 12,
+      name: "Elizabeth Paterson",
+      email: "elizabeth.paterson@example.com",
+      twitter: "elizabethpaterson",
+      skype: "elizabethpaterson",
+      photo: "https://i.pravatar.cc/500",
+      place: "London, United Kingdom",
+      headline: "Administrative Assistant",
+      summary: "I always knew that I wanted to write, but I wasn’t ever sure how to go about it. I started a small personal travel blog when I was around 15 and when I joined college, I wrote for my school's magazine (The University News). These experiences led to me getting an internship with a magazine in New York City while I was a junior at college."
+    },
+    {
+      id: 13,
+      name: "Anthony Morgan",
+      email: "anthony.morgan@example.com",
+      twitter: "anthonymorgan",
+      skype: "anthonymorgan",
+      photo: "https://i.pravatar.cc/500",
+      place: "New York, US",
+      headline: "Executive Assistant",
+      summary: "When I graduated, I joined the Resume Worded Times as an entry-level writer and have been here since! I'm now a Lead Writer on the Editorial Team and over the last three years, I've written over 75+ articles covering a broad range of industries, including education, politics and entertainment. My work has been featured in major publications globally, including Forbes, Resume Worded and Entrepreneur Weekly."
+    },
+    {
+      id: 14,
+      name: "Alan Cornish",
+      email: "alan.cornish@example.com",
+      twitter: "alancornish",
+      skype: "alancornish",
+      photo: "https://i.pravatar.cc/500",
+      place: "Montreal, Canada",
+      headline: "Marketing Manager",
+      summary: "Outside of work, I serve on the executive team at the Young Women in Journalism, an organization committed to improving the networking and success of women in journalism across the USA."
+    },
+    {
+      id: 15,
+      name: "Jason Rutherford",
+      email: "jason.rutherford@example.com",
+      twitter: "jasonrutherford",
+      skype: "jasonrutherford",
+      photo: "https://i.pravatar.cc/500",
+      place: "São Paulo, Brazil",
+      headline: "Customer Service Representative",
+      summary: "I am a financial services professional with 3 years of experience in corporate finance at Goldman Sachs and one year in venture capital. Upon graduating from Stanford Business School in June 2020, I am seeking a position in private equity or venture capital."
+    },
+    {
+      id: 16,
+      name: "Sophie Sharp",
+      email: "sophie.sharp@example.com",
+      twitter: "sophiesharp",
+      skype: "sophiesharp",
+      photo: "https://i.pravatar.cc/500",
+      place: "London, United Kingdom",
+      headline: "Nurse Practitioner",
+      summary: "I have deep experience in financial analysis, building complex models and learn quickly about new industries and markets. I have participated in joint‐venture negotiations, acquisitions, IPOs and venture financing deals."
+    },
+    {
+      id: 17,
+      name: "Austin Avery",
+      email: "austin.avery@example.com",
+      twitter: "austinavery",
+      skype: "austinavery",
+      photo: "https://i.pravatar.cc/500",
+      place: "Paris, France",
+      headline: "Software Engineer",
+      summary: "At Stanford Business School, my focus has been on Finance, Entrepreneurship and Leadership. Over the summer, I worked at Clearlake Ventures performing valuations and due diligence."
+    },
+    {
+      id: 18,
+      name: "Audrey Butler",
+      email: "audrey.butler@example.com",
+      twitter: "audreybutler",
+      skype: "audreybutler",
+      photo: "https://i.pravatar.cc/500",
+      place: "Washington, US",
+      headline: "Sales Manager",
+      summary: "Specialties: Financial analysis, modeling, M&A, venture capital, negotiations, IPOs, forecasting, market analysis, industry analysis"
+    },
+    {
+      id: 19,
+      name: "Phil Avery",
+      email: "phil.avery@example.com",
+      twitter: "philavery",
+      skype: "philavery",
+      photo: "https://i.pravatar.cc/500",
+      place: "New York, US",
+      headline: "Data Entry Clerk",
+      summary: "I have been working in sales for almost five years, and I am now planning a transition into corporate human resources. Although successful in my sales career, I have realized the aspects of my work I find most rewarding are all in HR-related functions:"
+    },
+    {
+      id: 20,
+      name: "Bernadette Sharp",
+      email: "bernadette.sharp@example.com",
+      twitter: "bernadettesharp",
+      skype: "bernadettesharp",
+      photo: "https://i.pravatar.cc/500",
+      place: "London, United Kingdom",
+      headline: "Office Assistant",
+      summary: "Solid foundation in HR affairs: As senior account executive, I have been responsible for a number of HR functions, including recruiting, interviewing, hiring and training new employees. A quick learner of complex concepts and legal issues, I am eager to broaden these competencies."
+    },
+    {
+      id: 21,
+      name: "Luke Ball",
+      email: "luke.ball@example.com",
+      twitter: "lukeball",
+      skype: "lukeball",
+      photo: "https://i.pravatar.cc/500",
+      place: "Montreal, Canada",
+      headline: "CEO, Producer",
+      summary: "I'm currently seeking [opportunities you're looking for], so if you'd like to work together, feel free to connect via LinkedIn or contact me directly at youremail@resumeworded.com!"
+    },
+    {
+      id: 22,
+      name: "James Gibson",
+      email: "james.gibson@example.com",
+      twitter: "jamesgibson",
+      skype: "jamesgibson",
+      photo: "https://i.pravatar.cc/500",
+      place: "São Paulo, Brazil",
+      headline: "Inovator",
+      summary: "My passion for communication drew me to public relations and marketing, where I have worked with clients across a range of industries, including retail, education and technology. Until recently, I was a marketing specialist for Resume Worded, the education technology company that is at the forefront of Artificial Intelligence in the EdTech and recruitment space. In this role, I had the opportunity to create multiple integrated marketing campaigns across social, email, PPC and content."
+    },
+    {
+      id: 23,
+      name: "Lisa Coleman",
+      email: "lisa.coleman@example.com",
+      twitter: "lisacoleman",
+      skype: "lisacoleman",
+      photo: "https://i.pravatar.cc/500",
+      place: "New York, US",
+      headline: "Financial Analyst",
+      summary: "I'm currently freelancing and I'm open to new opportunities starting January. Please feel free to get in touch with me on welove@resumeworded.com and we can explore how I can help."
+    },
+    {
+      id: 24,
+      name: "Jake Hunter",
+      email: "jake.hunter@example.com",
+      twitter: "jakehunter",
+      skype: "jakehunter",
+      photo: "https://i.pravatar.cc/500",
+      place: "Washington, US",
+      headline: "Director of HR",
+      summary: "Every brand has a story behind it - whether that is one that leaves customers feeling informed and educated, or one that sparks joy and delight. I'm passionate about not only defining and articulating that story, but also developing and implementing integrated marketing plans which companies can utilize to tell that story and maximize their reach."
+    },
+    {
+      id: 25,
+      name: "Alison Watson",
+      email: "alison.watson@example.com",
+      twitter: "alisonwatson",
+      skype: "alisonwatson",
+      photo: "https://i.pravatar.cc/500",
+      place: "New York, US",
+      headline: "Trusted Advisor",
+      summary: "We're living in an exhilarating time where you can reach millions of people through so many different channels. That being said, to build a brand, you need to identify the right audience and craft the right story."
+    },
+    {
+      id: 26,
+      name: "Charles Thomson",
+      email: "charles.thomson@example.com",
+      twitter: "charlesthomson",
+      skype: "charlesthomson",
+      photo: "https://i.pravatar.cc/500",
+      place: "New York, US",
+      headline: "Brand Management",
+      summary: "One of the marketing campaigns I led involved creating a viral video on the future of work, which generated incredible media buzz (300k+ views) and was critical to the successful launch of the LinkedIn Review product (2019). Some of my previous experiences includes being on the marketing team for BigNameCo and developing their launch strategy for ABC product."
+    },
+    {
+      id: 27,
+      name: "Christian Powell",
+      email: "christian.powell@example.com",
+      twitter: "christianpowell",
+      skype: "christianpowell",
+      photo: "https://i.pravatar.cc/500",
+      place: "Montreal, Canada",
+      headline: "Sales Development",
+      summary: "I always knew that I wanted to write, but I wasn’t ever sure how to go about it. I started a small personal travel blog when I was around 15 and when I joined college, I wrote for my school's magazine (The University News). These experiences led to me getting an internship with a magazine in New York City while I was a junior at college."
+    },
+    {
+      id: 28,
+      name: "Paul Alsop",
+      email: "paul.alsop@example.com",
+      twitter: "paulalsop",
+      skype: "paulalsop",
+      photo: "https://i.pravatar.cc/500",
+      place: "Paris, France",
+      headline: "Social Media Manager",
+      summary: "When I graduated, I joined the Resume Worded Times as an entry-level writer and have been here since! I'm now a Lead Writer on the Editorial Team and over the last three years, I've written over 75+ articles covering a broad range of industries, including education, politics and entertainment. My work has been featured in major publications globally, including Forbes, Resume Worded and Entrepreneur Weekly."
+    },
+    {
+      id: 29,
+      name: "Richard Welch",
+      email: "richard.welch@example.com",
+      twitter: "richardwelch",
+      skype: "richardwelch",
+      photo: "https://i.pravatar.cc/500",
+      place: "New York, US",
+      headline: "Trusted Advisor",
+      summary: "Outside of work, I serve on the executive team at the Young Women in Journalism, an organization committed to improving the networking and success of women in journalism across the USA."
+    },
+    {
+      id: 30,
+      name: "Christopher Abraham",
+      email: "christopher.abraham@example.com",
+      twitter: "christopherabraham",
+      skype: "christopherabraham",
+      photo: "https://i.pravatar.cc/500",
+      place: "São Paulo, Brazil",
+      headline: "Certified HR Trainer",
+      summary: "I am a financial services professional with 3 years of experience in corporate finance at Goldman Sachs and one year in venture capital. Upon graduating from Stanford Business School in June 2020, I am seeking a position in private equity or venture capital."
+    }
+  ],
   companies: [
     {
       id: 1,
@@ -416,8 +748,8 @@ module.exports = {
       mission: "The leading provider of enterprise open source solutions.",
       followers: 849191,
       employees: 16284,
-      logo: "https://linkedinconcept.s3.amazonaws.com/logo-red-hat.png",
-      cover: "https://linkedinconcept.s3.amazonaws.com/cover-red-hat.png",
+      logo: "https://linkedinconcept.s3.amazonaws.com/logo-redhat.png",
+      cover: "https://linkedinconcept.s3.amazonaws.com/cover-redhat.png",
       description: "Red Hat is the world’s leading provider of enterprise open source solutions, using a community-powered approach to deliver high-performing Linux, cloud, container, and Kubernetes technologies.\n\nWe hire creative, passionate people who are ready to contribute their ideas, help solve complex problems, and make an impact. Opportunities are open. Join us."
     },
     {
@@ -983,6 +1315,22 @@ module.exports = {
       title: "Data Entry Clerk",
       period: "March 2018 - January 2020",
       description: "Maintains database by entering new and updated customer and account information. Prepares source data for computer entry by compiling and sorting information. Establishes entry priorities. Processes customer and account source documents by reviewing data for deficiencies."
+    },
+    {
+      id: 60,
+      user_id: 1,
+      company_id: 7,
+      title: "Software Engineer",
+      period: "March 2018 - November 2020",
+      description: "You created, maintained, audited and improved systems to meet particular needs, often as advised by a systems analyst or architect, testing both hard and software systems to diagnose and resolve system faults."
+    },
+    {
+      id: 61,
+      user_id: 1,
+      company_id: 8,
+      title: "Software Engineer",
+      period: "March 2015 - January 2018",
+      description: "You created, maintained, audited and improved systems to meet particular needs, often as advised by a systems analyst or architect, testing both hard and software systems to diagnose and resolve system faults."
     }
   ],
   courses: [
@@ -1393,224 +1741,252 @@ module.exports = {
       title: "Scrum: The Basics",
       period: "March 2018 - January 2020",
       description: "How to manage your projects and measure how they're faring, and set manageable improvement goals."
+    },
+    {
+      id: 52,
+      user_id: 1,
+      company_id: 14,
+      title: "Scrum",
+      period: "March 2018 - January 2020",
+      description: "How to manage your projects and measure how they're faring, and set manageable improvement goals."
+    },
+    {
+      id: 53,
+      user_id: 1,
+      company_id: 13,
+      title: "Time Management Fundamentals",
+      period: "March 2018 - January 2020",
+      description: "I learned how to get more done in the shortest time possible and avoid the obstacles and distractions that can get in the way of good time management."
     }
   ],
   recommendations: [
     {
       id: 1,
       user_id: 26,
-      author: 18,
+      author_id: 18,
       description: "He is an inspiring person. He understands complex matters even when outside of his direct area of expertise."
     },
     {
       id: 2,
       user_id: 16,
-      author: 1,
+      author_id: 1,
       description: "The job is always the most important thing to do. She is extremely enthusiastic about his work which is infectious."
     },
     {
       id: 3,
       user_id: 11,
-      author: 29,
+      author_id: 29,
       description: "He had vision to see the benefits and the passion to turn that into a competitive advantage for the company."
     },
     {
       id: 4,
       user_id: 28,
-      author: 5,
+      author_id: 5,
       description: "Through the years, we worked on various projects and I was impressed by his manner of doing a great job. Certainly worth recommending."
     },
     {
       id: 5,
       user_id: 10,
-      author: 25,
+      author_id: 25,
       description: "Wise, clever, excellent and well educated professional who can be trusted. Organized and customer-service oriented perfectionist, has no problem to work hard when necessary."
     },
     {
       id: 6,
       user_id: 10,
-      author: 3,
+      author_id: 3,
       description: "Result driven, experienced and efficient team player. Deliver results and move on. That's his way."
     },
     {
       id: 7,
       user_id: 29,
-      author: 18,
+      author_id: 18,
       description: "Always maintains very good relation with co-workers and clients. I've constantly felt she was one of the most effective team mates I have ever had the opportunity of working with."
     },
     {
       id: 8,
       user_id: 9,
-      author: 25,
+      author_id: 25,
       description: "He was well respected in our department and everyone enjoyed working with him."
     },
     {
       id: 9,
       user_id: 17,
-      author: 30,
+      author_id: 30,
       description: "Whenever I had a problem, there has never been a time he has left me without a solution."
     },
     {
       id: 10,
       user_id: 8,
-      author: 25,
+      author_id: 25,
       description: "I learned a great deal from her. I definitely would recommend."
     },
     {
       id: 11,
       user_id: 24,
-      author: 6,
+      author_id: 6,
       description: "It was a real pleasure to work together, who was an exceptional professional."
     },
     {
       id: 12,
       user_id: 25,
-      author: 22,
+      author_id: 22,
       description: "The success achieved in his job required extensive knowledge and dedication. Experiencing his quick and sharp mind at work is most remarkable."
     },
     {
       id: 13,
       user_id: 5,
-      author: 14,
+      author_id: 14,
       description: "Proactive, ambitious, committed and broad-minded perfectionist."
     },
     {
       id: 14,
       user_id: 19,
-      author: 15,
+      author_id: 15,
       description: "No matter how complex the problem is, he will always come up with a brilliant, elegant, and cost-effective solution. I enjoyed working with him on the various projects we took on."
     },
     {
       id: 15,
       user_id: 26,
-      author: 9,
+      author_id: 9,
       description: "On account of her mature approach to her responsibilities, I often thought of her as a professional I could always rely upon to get the job done."
     },
     {
       id: 16,
       user_id: 22,
-      author: 2,
+      author_id: 2,
       description: "I enjoyed working with her on the different projects we took on."
     },
     {
       id: 17,
       user_id: 13,
-      author: 5,
+      author_id: 5,
       description: "She will find a way to weather any storm with a smile. She is a truly exceptional person."
     },
     {
       id: 18,
       user_id: 1,
-      author: 29,
+      author_id: 29,
       description: "I could recommend her as a person with profound knowledge and great abilities of advanced business solutions."
     },
     {
       id: 19,
       user_id: 24,
-      author: 28,
+      author_id: 28,
       description: "When you get to connect with her, you'll find an amazing person with exceptional skills! Thanks to interpersonal skills she has great relations with both company clients and potential customers."
     },
     {
       id: 20,
       user_id: 16,
-      author: 8,
+      author_id: 8,
       description: "She was well respected in our department and everyone enjoyed working with her. Excellent and result driven. Works towards maximal customer satisfaction."
     },
     {
       id: 21,
       user_id: 30,
-      author: 28,
+      author_id: 28,
       description: "Is always capable of adapting to new working environments. Very positive attitude towards work."
     },
     {
       id: 22,
       user_id: 6,
-      author: 2,
+      author_id: 2,
       description: "Proactive, energetic and perfectly organized. Brilliant!"
     },
     {
       id: 23,
       user_id: 2,
-      author: 12,
+      author_id: 12,
       description: "She is very thorough in everything she does and can be depended upon to get the job done. "
     },
     {
       id: 24,
       user_id: 16,
-      author: 4,
+      author_id: 4,
       description: "Her leadership and organizational skills have been invaluable to the company. "
     },
     {
       id: 25,
       user_id: 12,
-      author: 19,
+      author_id: 19,
       description: "Experiencing her quick and sharp mind at the workplace is most outstanding."
     },
     {
       id: 26,
       user_id: 18,
-      author: 8,
+      author_id: 8,
       description: "Loyal, insightful and independent. Is always capable of adapting to new working environments. Very positive attitude towards work. "
     },
     {
       id: 27,
       user_id: 25,
-      author: 25,
+      author_id: 25,
       description: "Proactive, ambitious, committed and broad-minded perfectionist. Excellent and result driven. Works towards maximal customer satisfaction."
     },
     {
       id: 28,
       user_id: 8,
-      author: 24,
+      author_id: 24,
       description: "Through the years, we worked on various projects and I was impressed by her manner of doing a great job."
     },
     {
       id: 29,
       user_id: 1,
-      author: 10,
+      author_id: 10,
       description: "Her leadership and organizational skills have been invaluable to the company. "
     },
     {
       id: 30,
       user_id: 23,
-      author: 7,
+      author_id: 7,
       description: "Experiencing her quick and sharp mind at the workplace is most outstanding."
     },
     {
       id: 31,
       user_id: 4,
-      author: 13,
+      author_id: 13,
       description: "Loyal, insightful and independent. Is always capable of adapting to new working environments. Very positive attitude towards work. "
     },
     {
       id: 32,
       user_id: 29,
-      author: 29,
+      author_id: 29,
       description: "Proactive, ambitious, committed and broad-minded perfectionist. Excellent and result driven. Works towards maximal customer satisfaction."
     },
     {
       id: 33,
       user_id: 25,
-      author: 12,
+      author_id: 12,
       description: "Through the years, we worked on various projects and I was impressed by her manner of doing a great job."
     },
     {
       id: 34,
       user_id: 4,
-      author: 10,
+      author_id: 10,
       description: "It was a real pleasure to work together, who was an exceptional professional."
     },
     {
       id: 35,
       user_id: 9,
-      author: 20,
+      author_id: 20,
       description: "He was well respected in our department and everyone enjoyed working with him."
     },
     {
       id: 36,
       user_id: 17,
-      author: 8,
+      author_id: 8,
       description: "Proactive, ambitious, committed and broad-minded perfectionist. Excellent and result driven. Works towards maximal customer satisfaction."
+    },
+    {
+      id: 37,
+      user_id: 1,
+      author_id: 8,
+      description: "Proactive, ambitious, committed and broad-minded perfectionist. Excellent and result driven. Works towards maximal customer satisfaction."
+    },
+    {
+      id: 38,
+      user_id: 1,
+      author_id: 30,
+      description: "He was well respected in our department and everyone enjoyed working with him. It was a real pleasure to work together, who was an exceptional professional."
     }
   ],
   follows: [
@@ -1621,7 +1997,7 @@ module.exports = {
     },
     {
       id: 2,
-      user_id: 29,
+      user_id: 1,
       company_id: 7
     },
     {
@@ -1631,7 +2007,7 @@ module.exports = {
     },
     {
       id: 4,
-      user_id: 30,
+      user_id: 1,
       company_id: 1
     },
     {
@@ -2646,6 +3022,75 @@ module.exports = {
       likes:1245,
       time:"6 days"
     }
+  ],
+  articles: [
+    {
+      id: 1,
+      user_id: 9,
+      company_id: null,
+      title: "The No. 1 Career Mistake Capable People Make",
+      body: "I recently reviewed a resume for a colleague who was trying to define a clearer career strategy. She has terrific experience. And yet, as I looked through it I could see the problem she was concerned about: she had done so many good things in so many different fields it was hard to know what was distinctive about her. <br/><br/><br/> As we talked it became clear the resume was only the symptom of a deeper issue. In an attempt to be useful and adaptable she has said yes to too many good projects and opportunities. She has ended up feeling overworked and underutilized. It is easy to see how people end up in her situation:",
+      fullArticle: "https://www.linkedin.com/pulse/20121206081322-8353952-the-1-career-mistake-capable-people-make/",
+      image:null,
+      video:null,
+      likes:12844,
+      time:"9 years"
+    },{
+      id: 2,
+      user_id: null,
+      company_id: 5,
+      title: "Three Things I’ve Learned From Warren Buffett",
+      body: "I’m looking forward to sharing posts from time to time about things I’ve learned in my career at Microsoft and the Gates Foundation. (I also post frequently on my blog.) <br/><br/> Last month, I went to Omaha for the annual Berkshire Hathaway shareholders meeting. It’s always a lot of fun, and not just because of the ping-pong matches and the newspaper-throwing contest I have with Warren Buffett. It’s also fun because I get to learn from Warren and gain insight into how he thinks. <br/><br/> Here are three things I’ve learned from Warren over the years:",
+      fullArticle: "https://www.linkedin.com/pulse/20130612065727-251749025-three-things-i-ve-learned-from-warren-buffett/",
+      image:null,
+      video:null,
+      likes:11680,
+      time:"8 years"
+    },{
+      id: 3,
+      user_id: 30,
+      company_id: null,
+      title: "10 Things To Do Every Workday",
+      body: "I’ve always been focused on performance. I’m a list person. I love the feeling of crossing things off. It makes me feel productive. Plus, consistent productivity has the wonderful byproduct of accomplishing more. Jeff Haden’s article on Linkedin summarizes the value of having a daily to-do list beautifully: You don’t wait to do the work until you get the dream job - you do the work in order to get the dream job. <br/><br/>I’ve never shared this list with anyone until now.<br/><br/>It’s the list of ten things I try to do every workday. Yes, there are days when I don’t get them all done, but I do my best to deliver. It has proven very effective for me. They are:<br/>1 Read something related to my industry.<br/>2 Read something related to business development.<br/>3 Send two emails to touch base with old colleagues.<br/>4 Empty my private client inbox by responding to all career coaching questions within one business day.",
+      fullArticle: "https://www.linkedin.com/pulse/20130326165036-7668018-10-things-to-do-every-workday/",
+      image:null,
+      video:null,
+      likes:9968,
+      time:"8 years"
+    },{
+      id: 4,
+      user_id: 29,
+      company_id: null,
+      title: "The One Thing Successful People Never Do",
+      body: "Success comes in all shapes and colours. You can be successful in your job and career but you can equally be successful in your marriage, at sports or a hobby. Whatever success you are after there is one thing all radically successful people have in common: Their ferocious drive and hunger for success makes them never give up. <br/><br/>Successful people (or the people talking or writing about them) often paint a picture of the perfect ascent to success. In fact, some of the most successful people in business, entertainment and sport have failed. Many have failed numerous times but they have never given up. Successful people are able to pick themselves up, dust themselves off and carry on trying.<br/><br/>I have collected some examples that should be an inspiration to anyone who aspires to be successful. They show that if you want to succeed you should expect failure along the way.",
+      fullArticle: "https://www.linkedin.com/pulse/20130715085900-64875646-the-one-thing-successful-people-never-do/",
+      image:null,
+      video:null,
+      likes:11311,
+      time:"9 years"
+    },{
+      id: 5,
+      user_id: 27,
+      company_id: null,
+      title: "Stop Using These 16 Terms to Describe Yourself",
+      body: "Picture this. You meet someone new. \"What do you do?\" she asks. <br/><br/>\"I'm an architect,\" you say.<br/><br/>\"Oh, really?\" she answers. \"Have you designed any buildings I've seen?\"<br/><br/>\"Possibly,\" you reply. \"We did the new student center at the university...\"<br/><br/>\"Oh wow,\" she says. \"That's a beautiful building...\"<br/><br/>Without trying -- without blowing your own horn -- you've made a great impression.",
+      fullArticle: "https://www.linkedin.com/pulse/20130117141235-20017018-stop-using-these-16-terms-to-describe-yourself/",
+      image:null,
+      video:null,
+      likes:7498,
+      time:"9 years"
+    },{
+      id: 6,
+      user_id: 26,
+      company_id: null,
+      title: "9 Things Successful People Won't Do",
+      body: "My last post, How Successful People Stay Calm, really struck a nerve (it's already approaching 1.5 million reads here on LinkedIn). The trick is that managing your emotions is as much about what you won’t do as it is about what you will do. <br/><br/>TalentSmart has tested more than a million people and found that the upper echelons of top performance are filled with people who are high in emotional intelligence (90% of top performers, to be exact). So, I went back to the data to uncover the kinds of things that emotionally intelligent people are careful to avoid in order to keep themselves calm, content, and in control. They consciously avoid these behaviors because they are tempting and easy to fall into if one isn’t careful.<br/><br/>While the list that follows isn’t exhaustive, it presents nine key things that you can avoid in order to increase your emotional intelligence and performance.",
+      fullArticle: "https://www.linkedin.com/pulse/20140818190427-50578967-9-things-successful-people-won-t-do/",
+      image:null,
+      video:null,
+      likes:16952,
+      time:"7 years"
+    },
   ],
   comments: [
     {

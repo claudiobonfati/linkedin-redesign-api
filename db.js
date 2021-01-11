@@ -2393,7 +2393,7 @@ module.exports = {
   ],
   posts: [
     {
-      id:8,
+      id:1,
       user_id:null,
       company_id:4,
       body:"At Tesla, you will utilize your military skillset to the fullest: dedication to mission success, technical expertise, leadership acumen, ability to thrive under pressure, recognizing the value of teamwork, among the countless other strengths you forged in the service.",
@@ -2403,7 +2403,7 @@ module.exports = {
       time:"2 weeks"
     },
     {
-      id:54,
+      id:2,
       user_id:28,
       company_id:null,
       body:"Develop an ‘attitude of gratitude’. Say thank you to everyone you meet for everything they do for you.",
@@ -2413,17 +2413,17 @@ module.exports = {
       time:"8 hours"
     },
     {
-      id:25,
+      id:3,
       user_id:null,
       company_id:13,
-      body:"We’re thrilled to be opening the new Kavli Institute for NanoScience Discovery in January 2021 thanks to a $10 million gift from the @KavliFoundation.\nThe new institute will combine the study of structural biology with world-leading biochemistry, pathology, chemistry, physics, physiology and engineering. Based in a new building at the center of Oxford’s Science Area site, it will house more than 40 faculty and 400 students, postdocs and research staff.\nhttps://bit.ly/37tTASG",
+      body:"We’re thrilled to be opening the new Kavli Institute for NanoScience Discovery in January 2021 thanks to a $10 million gift from the @KavliFoundation.\nThe new institute will combine the study of structural biology with world-leading biochemistry, pathology, chemistry, physics, physiology and engineering. Based in a new building at the center of Oxford’s Science Area site, it will house more than 40 faculty and 400 students, postdocs and research staff.\n<a href='https://bit.ly/37tTASG' target='_blank'></a>",
       image:"https://linkedinconcept.s3.amazonaws.com/16548575254.jpg",
       video:null,
       likes:1254,
       time:"1 week"
     },
     {
-      id:29,
+      id:4,
       user_id:3,
       company_id:null,
       body:"Entrepreneurs are great at dealing with uncertainty and also very good at minimizing risk. That’s the classic entrepreneur.",
@@ -2433,7 +2433,7 @@ module.exports = {
       time:"2 weeks"
     },
     {
-      id:36,
+      id:5,
       user_id:10,
       company_id:null,
       body:"The effective leader recognizes that they are more dependent on their people than they are on them. Walk softly.",
@@ -2443,7 +2443,7 @@ module.exports = {
       time:"25 min"
     },
     {
-      id:40,
+      id:6,
       user_id:14,
       company_id:null,
       body:"Really happy to announce our new collaboration with DLA Piper. We can't wait to start working on the future M&A with your help. My team and I are available most of the time.",
@@ -2453,7 +2453,7 @@ module.exports = {
       time:"1 week"
     },
     {
-      id:32,
+      id:7,
       user_id:6,
       company_id:null,
       body:"Things work out best for those who make the best of how things work out.",
@@ -2463,7 +2463,7 @@ module.exports = {
       time:"16 min"
     },
     {
-      id:28,
+      id:8,
       user_id:2,
       company_id:null,
       body:"You got a dream, you gotta protect it. You want something, go get it. Period.",
@@ -2473,7 +2473,7 @@ module.exports = {
       time:"1 week"
     },
     {
-      id:53,
+      id:9,
       user_id:27,
       company_id:null,
       body:"Having a great relationship with your customers can lead to more referrals.",
@@ -2483,7 +2483,7 @@ module.exports = {
       time:"2 hours"
     },
     {
-      id:43,
+      id:10,
       user_id:17,
       company_id:null,
       body:"I think goals should never be easy, they should force you to work, even if they are uncomfortable at the time.",
@@ -2493,7 +2493,7 @@ module.exports = {
       time:"1 week"
     },
     {
-      id:48,
+      id:11,
       user_id:22,
       company_id:null,
       body:"“It is not that I'm so smart. But I stay with the questions much longer.”\n― Albert Einstein",
@@ -2503,7 +2503,7 @@ module.exports = {
       time:"30 min"
     },
     {
-      id:35,
+      id:12,
       user_id:9,
       company_id:null,
       body:"“Just remember, you can’t climb the ladder of success with your hands in your pockets”",
@@ -2513,7 +2513,7 @@ module.exports = {
       time:"19 hours"
     },
     {
-      id:10,
+      id:13,
       user_id:null,
       company_id:5,
       body:"Schedule a meeting; Pick up groceries; Cross off more tasks in Microsoft 365. Stay on top of your day with with access to Tasks wherever you are.\n\nCredits for the video: yaniv.mx",
@@ -2523,7 +2523,7 @@ module.exports = {
       time:"5 hours"
     },
     {
-      id:26,
+      id:14,
       user_id:null,
       company_id:14,
       body:"Yale senior Mary Yap ’21 discusses her passions for architecture, climate change, and astrophotography.",
@@ -2533,7 +2533,7 @@ module.exports = {
       time:"1 week"
     },
     {
-      id:5,
+      id:15,
       user_id:null,
       company_id:2,
       body:"MacBook Air and MacBook Pro 13\", now supercharged by the Apple M1 chip. Powering the work you need to do from anywhere.\n\nCredits for the video: purelifestyle.be",
@@ -2543,7 +2543,7 @@ module.exports = {
       time:"2 days"
     },
     {
-      id:51,
+      id:16,
       user_id:25,
       company_id:null,
       body:"When you teach your customers valuable lessons, they will come back to your website or page again and again.",
@@ -2553,7 +2553,7 @@ module.exports = {
       time:"10 min"
     },
     {
-      id:20,
+      id:17,
       user_id:null,
       company_id:10,
       body:"The Harvard Medal recognizes extraordinary service to the University in a variety of areas, such as teaching, fundraising, leadership, and innovation.",
@@ -2563,7 +2563,7 @@ module.exports = {
       time:"1 week"
     },
     {
-      id:22,
+      id:18,
       user_id:null,
       company_id:11,
       body:"Cambridge University Press, a department of the university, is the oldest university press in the world and currently the second largest university press in the world. Cambridge Assessment, also a department of the university, is one of the world's leading examining bodies and provides assessment to over eight million learners globally every year.\n\nCredits for the video: thelikeminded.co.uk",
@@ -2573,7 +2573,7 @@ module.exports = {
       time:"2 weeks"
     },
     {
-      id:38,
+      id:19,
       user_id:12,
       company_id:null,
       body:"We are securing a new deal. Please fasten your seatbelt!",
@@ -2583,7 +2583,7 @@ module.exports = {
       time:"10 min"
     },
     {
-      id:39,
+      id:20,
       user_id:13,
       company_id:null,
       body:"You learn more from failure than from success. Don’t let it stop you. Failure builds character.",
@@ -2593,7 +2593,7 @@ module.exports = {
       time:"2 hours"
     },
     {
-      id:14,
+      id:21,
       user_id:null,
       company_id:7,
       body:"Miss an episode of In the Clouds? No worries! Catch all the recordings on-demand:",
@@ -2603,7 +2603,7 @@ module.exports = {
       time:"6 days"
     },
     {
-      id:34,
+      id:22,
       user_id:8,
       company_id:null,
       body:"One of the lessons that I grew up with was to always stay true to yourself and never let what somebody else says distract you from your goals.",
@@ -2613,17 +2613,7 @@ module.exports = {
       time:"3 days"
     },
     {
-      id:59,
-      user_id:1,
-      company_id:null,
-      body:"I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
-      image:"https://images.unsplash.com/photo-1590102425280-87796d4a442c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
-      video:null,
-      likes:32,
-      time:"9 min"
-    },
-    {
-      id:56,
+      id:24,
       user_id:30,
       company_id:null,
       body:"I think goals should never be easy, they should force you to work, even if they are uncomfortable at the time.",
@@ -2633,7 +2623,7 @@ module.exports = {
       time:"1 week"
     },
     {
-      id:30,
+      id:25,
       user_id:4,
       company_id:null,
       body:"“You can’t connect the dots if you’re looking forward, you can only do it looking backwards. So, you need to keep moving forward and hope that the dots align somehow.”\n\nThe key message from this famous motivational speech is that we’re always learning. We’re always growing and finding out new information. It’s all about what we choose to do with that information that really defines us.",
@@ -2643,7 +2633,7 @@ module.exports = {
       time:"5 min"
     },
     {
-      id:24,
+      id:26,
       user_id:null,
       company_id:12,
       body:"Nobel laureate and Columbia's own Joseph E. Stiglitz sees a light at the end of the COVID tunnel for America, but can we act quickly enough? https://bit.ly/3mSipOe",
@@ -2653,7 +2643,7 @@ module.exports = {
       time:"1 week"
     },
     {
-      id:19,
+      id:27,
       user_id:null,
       company_id:9,
       body:"A dark storm on Neptune has reversed direction in a process that we have never before seen. Our Hubble Space telescope spotted the change: https://lnkd.in/gHRvhy5",
@@ -2663,7 +2653,7 @@ module.exports = {
       time:"2 hours"
     },
     {
-      id:50,
+      id:28,
       user_id:24,
       company_id:null,
       body:"Best advice you were ever given that you’re so glad you ignored❓❓\n\nGo! 👇🏻",
@@ -2673,7 +2663,7 @@ module.exports = {
       time:"1 week"
     },
     {
-      id:41,
+      id:29,
       user_id:15,
       company_id:null,
       body:"Develop an ‘attitude of gratitude’. Say thank you to everyone you meet for everything they do for you.",
@@ -2683,7 +2673,7 @@ module.exports = {
       time:"8 hours"
     },
     {
-      id:7,
+      id:30,
       user_id:null,
       company_id:3,
       body:"Ready to build products at the forefront of technology and influence the direction of cloud computing? The Google Cloud team is growing and hiring software engineers around the world. Explore open roles → https://goo.gle/3fcwJgx",
@@ -2693,7 +2683,7 @@ module.exports = {
       time:"6 days"
     },
     {
-      id:42,
+      id:31,
       user_id:16,
       company_id:null,
       body:"We've just arived to San Francisco for a really challenging mission. It was not possible to skip the Bridge photo before diving into hard work session.",
@@ -2703,7 +2693,7 @@ module.exports = {
       time:"5 hours"
     },
     {
-      id:15,
+      id:32,
       user_id:null,
       company_id:7,
       body:"If you didn't make it to #GITEX this year, you can still visit #RedHat via #GITEXPlus. Click here to register for a free virtual pass: https://red.ht/3qtLLot",
@@ -2713,7 +2703,7 @@ module.exports = {
       time:"2 days"
     },
     {
-      id:17,
+      id:33,
       user_id:null,
       company_id:8,
       body:"Thank you to all those who have served and sacrificed #VeteransDay",
@@ -2723,18 +2713,8 @@ module.exports = {
       time:"1 month"
     },
     {
-      id:46,
-      user_id:20,
-      company_id:null,
-      body:"I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
-      image:"https://images.unsplash.com/photo-1590102425280-87796d4a442c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
-      video:null,
-      likes:32,
-      time:"9 min"
-    },
-    {
-      id:58,
-      user_id:1,
+      id:35,
+      user_id:4,
       company_id:null,
       body:"“The Only Way To Do Great Work Is To Love What You Do. If You Haven’t Found It Yet, Keep Looking. Don’t Settle.” – Steve Jobs",
       image:"https://images.unsplash.com/photo-1534802046520-4f27db7f3ae5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1401&q=80",
@@ -2743,7 +2723,7 @@ module.exports = {
       time:"2 hours"
     },
     {
-      id:55,
+      id:36,
       user_id:29,
       company_id:null,
       body:"We've just arived to San Francisco for a really challenging mission. It was not possible to skip the Bridge photo before diving into hard work session.",
@@ -2753,7 +2733,7 @@ module.exports = {
       time:"5 hours"
     },
     {
-      id:11,
+      id:37,
       user_id:null,
       company_id:5,
       body:"Did you know that Microsoft invests about $ 1 billion in cloud security each year? Find out at: http://msft.it/6044TNBYY",
@@ -2763,7 +2743,7 @@ module.exports = {
       time:"9 hours"
     },
     {
-      id:62,
+      id:38,
       user_id:2,
       company_id:null,
       body:"Sometimes we have to move in order to navigate ourselves around, beyond or to create space in order to move — which could mean moving backwards — and that’s okay because it’s all a part of life’s journey.",
@@ -2773,7 +2753,7 @@ module.exports = {
       time:"1 weeks"
     },
     {
-      id:61,
+      id:39,
       user_id:2,
       company_id:null,
       body:"“It is not that I'm so smart. But I stay with the questions much longer.”\n― Albert Einstein",
@@ -2783,7 +2763,7 @@ module.exports = {
       time:"30 min"
     },
     {
-      id:23,
+      id:40,
       user_id:null,
       company_id:11,
       body:"New research Centre for Lifelong Learning and Individualised Cognition aims to improve people's capacity for responding to the fluctuating events of the modern world. The collaboration between the University of Cambridge and Nanyang Technological University, Singapore, will conduct research on four life stages - early years, adolescence, young adults and middle age - when flexible behaviour is critical for coping with changing circumstances.\n\nhttps://bit.ly/3lkbn44",
@@ -2793,7 +2773,7 @@ module.exports = {
       time:"3 days"
     },
     {
-      id:3,
+      id:41,
       user_id:null,
       company_id:2,
       body:"Meet iPhone 12. The power of 5G. Dual-camera system with Night mode. Ceramic Shield. It’s ready for your business.",
@@ -2803,7 +2783,7 @@ module.exports = {
       time:"4 weeks"
     },
     {
-      id:49,
+      id:42,
       user_id:23,
       company_id:null,
       body:"Social media is such a powerful platform for businesses nowadays. How do you engage with your customers/clients?",
@@ -2813,7 +2793,7 @@ module.exports = {
       time:"25 min"
     },
     {
-      id:31,
+      id:43,
       user_id:5,
       company_id:null,
       body:"For every reason it’s not possible, there are hundreds of people who have faced the same circumstances and succeeded.",
@@ -2823,7 +2803,7 @@ module.exports = {
       time:"6 hours"
     },
     {
-      id:33,
+      id:44,
       user_id:7,
       company_id:null,
       body:"The world ain’t all sunshine and rainbows. It’s a very mean and nasty place and I don’t care how tough you are it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain’t about how hard ya hit. It’s about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That’s how winning is done! ",
@@ -2833,7 +2813,7 @@ module.exports = {
       time:"2 weeks"
     },
     {
-      id:4,
+      id:45,
       user_id:null,
       company_id:2,
       body:"As an intern, you’ll be a full contributor working on real projects — like our other employees. It’s a collaborative, hands-on experience.",
@@ -2843,7 +2823,7 @@ module.exports = {
       time:"6 days"
     },
     {
-      id:9,
+      id:46,
       user_id:null,
       company_id:4,
       body:"Tesla Model S is now the first ever electric vehicle to receive an EPA range rating above 400 miles. https://lnkd.in/gEgg4e9",
@@ -2853,7 +2833,7 @@ module.exports = {
       time:"6 weeks"
     },
     {
-      id:52,
+      id:47,
       user_id:26,
       company_id:null,
       body:"You need to have a strategy involving a targeted content and the right timing to help reach your goals. Choosing the right strategies is the key.",
@@ -2863,7 +2843,7 @@ module.exports = {
       time:"2 hours"
     },
     {
-      id:6,
+      id:48,
       user_id:null,
       company_id:3,
       body:"🔦Job Spotlight🔦 Technical Recruitment in Hyderabad and Bengaluru. As a Technical Recruiter or Lead you’ll play an essential role in the scale and growth of Google Cloud and help advance a more diverse, accessible, equitable and inclusive Google. Interested? Learn more and apply ➡️ https://goo.gle/33vrCEM",
@@ -2873,7 +2853,7 @@ module.exports = {
       time:"5 days"
     },
     {
-      id:47,
+      id:49,
       user_id:21,
       company_id:null,
       body:"“Try not to become a man of success. Rather become a man of value.”\n― Albert Einstein",
@@ -2883,7 +2863,7 @@ module.exports = {
       time:"3 hours"
     },
     {
-      id:18,
+      id:50,
       user_id:null,
       company_id:9,
       body:"Dancing across the night sky, Jupiter and Saturn will make their showstopping move on Dec. 21 when they align to form what's known as the \"Great Conjunction.\" Here's how you can watch: https://lnkd.in/gHhyPB4",
@@ -2893,7 +2873,7 @@ module.exports = {
       time:"3 days"
     },
     {
-      id:16,
+      id:51,
       user_id:null,
       company_id:8,
       body:"Now hiring: people who want to work in Cameron County, Texas on Starship – the vehicle that will carry people to the Moon, Mars, and beyond → https://lnkd.in/g7C3tcv",
@@ -2903,7 +2883,7 @@ module.exports = {
       time:"1 week"
     },
     {
-      id:37,
+      id:52,
       user_id:11,
       company_id:null,
       body:"Practice Golden Rule Management In Everything You Do. Manage Others The Way You Would Like To Be Managed.",
@@ -2913,7 +2893,7 @@ module.exports = {
       time:"1 week"
     },
     {
-      id:2,
+      id:53,
       user_id:null,
       company_id:1,
       body:"Amazon will help 29 million people around the world grow their tech skills with free cloud computing skills training through AWS by 2025. Learn more about today’s announcement: https://amzn.to/3m5UtG7",
@@ -2923,7 +2903,7 @@ module.exports = {
       time:"4 days"
     },
     {
-      id:57,
+      id:54,
       user_id:3,
       company_id:null,
       body:"New home! We've dobled in size since our merge with Dare.Ltd. We are so happy! Bigger team, more energy, bigger goals!",
@@ -2933,7 +2913,7 @@ module.exports = {
       time:"2 weeks"
     },
     {
-      id:1,
+      id:55,
       user_id:null,
       company_id:1,
       body:"\"Scout\" is the result of several years of work by Amazon's in-house robotics division. It will make its debut in Snohomish County, WA, close to Amazon's Seattle headquarters. The robot has six wheels, a box-sized electrical system and moves at close to a walking pace. \n\nCredits for the video: marketscale.com",
@@ -2943,7 +2923,7 @@ module.exports = {
       time:"4 hours"
     },
     {
-      id:21,
+      id:56,
       user_id:null,
       company_id:10,
       body:"Six Harvard College seniors have been awarded 2020 Rhodes Scholarships and a senior and recent alum were named George J. Mitchell Scholars.",
@@ -2953,7 +2933,7 @@ module.exports = {
       time:"2 weeks"
     },
     {
-      id:63,
+      id:57,
       user_id:5,
       company_id:null,
       body:"Building an 'A' team is not an easy thing to do by any stretch. I'm grateful to the like-minded individuals with a passion for technology and for improving the employee experience we've assembled on this journey.",
@@ -2963,7 +2943,7 @@ module.exports = {
       time:"45 min"
     },
     {
-      id:60,
+      id:58,
       user_id:2,
       company_id:null,
       body:"“Try not to become a man of success. Rather become a man of value.”\n― Albert Einstein",
@@ -2973,7 +2953,7 @@ module.exports = {
       time:"3 hours"
     },
     {
-      id:44,
+      id:59,
       user_id:18,
       company_id:null,
       body:"New home! We've dobled in size since our merge with Dare.Ltd. We are so happy! Bigger team, more energy, bigger goals!",
@@ -2983,7 +2963,7 @@ module.exports = {
       time:"2 weeks"
     },
     {
-      id:13,
+      id:60,
       user_id:null,
       company_id:6,
       body:"Thousands of companies are using IBM analytics to help manage billions of possible cybersecurity threats every day. Let's Build a Smarter Planet.\n\nCredits for the video: buck.tv",
@@ -2993,17 +2973,17 @@ module.exports = {
       time:"1 week"
     },
     {
-      id:27,
-      user_id:1,
+      id:61,
+      user_id:8,
       company_id:null,
-      body:"“The Best Way To Get Started Is To Quit Talking And Begin Doing.” – Walt Disney\n",
+      body:"“The Best Way To Get Started Is To Quit Talking And Begin Doing.” – Walt Disney",
       image:"https://images.unsplash.com/photo-1468971050039-be99497410af?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1190&q=80",
       video:null,
       likes:342,
       time:"8 hours"
     },
     {
-      id:45,
+      id:62,
       user_id:19,
       company_id:null,
       body:"“The Only Way To Do Great Work Is To Love What You Do. If You Haven’t Found It Yet, Keep Looking. Don’t Settle.” – Steve Jobs",
@@ -3013,7 +2993,7 @@ module.exports = {
       time:"2 hours"
     },
     {
-      id:12,
+      id:63,
       user_id:null,
       company_id:6,
       body:"Maintenance management systems should be, well... manageble. Simple is getting started with Maximo SaaS.\n\nCredits for the video: buck.tv",
@@ -3021,7 +3001,37 @@ module.exports = {
       video:264455468,
       likes:1245,
       time:"6 days"
-    }
+    },
+    {
+      id:64,
+      user_id:1,
+      company_id:null,
+      body:"Hey everyone,<br/><br/>A few months ago I decided to build a personal finance management app to put together some skills into one single project. And now it is finally done!<br/>I present you MoneyManager!! (super original name btw). The project took me more time to finish it than I thought at the beginning, but I really enjoyed the final result.<br/>The app allows you to add your monthly income and expenses, individual or recurring, and it keeps all the history of transactions and balances retroactive.<br/><br/>Live: <a href='https://lnkd.in/gzEnYVg' target='_blank'>https://lnkd.in/gzEnYVg</a><br/>GitHub: <a href='https://lnkd.in/gfGXvwm' target='_blank'>https://lnkd.in/gfGXvwm</a>",
+      image:null,
+      video:498675036,
+      likes:524,
+      time:"1 month"
+    },
+    {
+      id:65,
+      user_id:1,
+      company_id:null,
+      body:"Recently I've cloned the Netflix intro animation using only CSS and I got some great feedback about it, so I thought it would be a great idea to share a bit about the development process step-by-step. Anyway, here is the post link.<br/><br/>I hope you guys like it.<br/><br/><a href='https://bit.ly/3hYASas' target='_blank'>https://bit.ly/3hYASas</a>",
+      image:null,
+      video:498671972,
+      likes:125,
+      time:"1 month"
+    },
+    {
+      id:66,
+      user_id:1,
+      company_id:null,
+      body:"I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
+      image:"https://images.unsplash.com/photo-1590102425280-87796d4a442c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      video:null,
+      likes:302,
+      time:"9 min"
+    },
   ],
   articles: [
     {
@@ -3029,7 +3039,7 @@ module.exports = {
       user_id: 9,
       company_id: null,
       title: "The No. 1 Career Mistake Capable People Make",
-      body: "I recently reviewed a resume for a colleague who was trying to define a clearer career strategy. She has terrific experience. And yet, as I looked through it I could see the problem she was concerned about: she had done so many good things in so many different fields it was hard to know what was distinctive about her. <br/><br/><br/> As we talked it became clear the resume was only the symptom of a deeper issue. In an attempt to be useful and adaptable she has said yes to too many good projects and opportunities. She has ended up feeling overworked and underutilized. It is easy to see how people end up in her situation:",
+      body: "I recently reviewed a resume for a colleague who was trying to define a clearer career strategy. She has terrific experience. And yet, as I looked through it I could see the problem she was concerned about: she had done so many good things in so many different fields it was hard to know what was distinctive about her. <br/><br/> As we talked it became clear the resume was only the symptom of a deeper issue. In an attempt to be useful and adaptable she has said yes to too many good projects and opportunities. She has ended up feeling overworked and underutilized. It is easy to see how people end up in her situation:",
       fullArticle: "https://www.linkedin.com/pulse/20121206081322-8353952-the-1-career-mistake-capable-people-make/",
       image:null,
       video:null,
@@ -3051,7 +3061,7 @@ module.exports = {
       user_id: 30,
       company_id: null,
       title: "10 Things To Do Every Workday",
-      body: "I’ve always been focused on performance. I’m a list person. I love the feeling of crossing things off. It makes me feel productive. Plus, consistent productivity has the wonderful byproduct of accomplishing more. Jeff Haden’s article on Linkedin summarizes the value of having a daily to-do list beautifully: You don’t wait to do the work until you get the dream job - you do the work in order to get the dream job. <br/><br/>I’ve never shared this list with anyone until now.<br/><br/>It’s the list of ten things I try to do every workday. Yes, there are days when I don’t get them all done, but I do my best to deliver. It has proven very effective for me. They are:<br/>1 Read something related to my industry.<br/>2 Read something related to business development.<br/>3 Send two emails to touch base with old colleagues.<br/>4 Empty my private client inbox by responding to all career coaching questions within one business day.",
+      body: "I’ve always been focused on performance. I’m a list person. I love the feeling of crossing things off. It makes me feel productive. Plus, consistent productivity has the wonderful byproduct of accomplishing more. Jeff Haden’s article on Linkedin summarizes the value of having a daily to-do list beautifully: You don’t wait to do the work until you get the dream job - you do the work in order to get the dream job. <br/><br/>I’ve never shared this list with anyone until now.<br/><br/>It’s the list of ten things I try to do every workday. Yes, there are days when I don’t get them all done, but I do my best to deliver. It has proven very effective for me. They are:<br/><b>1</b> Read something related to my industry.<br/><b>2</b> Read something related to business development.<br/><b>3</b> Send two emails to touch base with old colleagues.<br/><b>4</b> Empty my private client inbox by responding to all career coaching questions within one business day.",
       fullArticle: "https://www.linkedin.com/pulse/20130326165036-7668018-10-things-to-do-every-workday/",
       image:null,
       video:null,

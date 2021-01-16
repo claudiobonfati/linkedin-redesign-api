@@ -6,7 +6,7 @@ module.exports = {
       email: "claudio.bonfati@example.com",
       twitter: "claudioexample",
       skype: "claudioexample",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-01.png",
       place: "São Paulo, Brazil",
       headline: "Software Engineer",
       summary: "I am a full stack developer with a strong background knowledge in web development. Beign apart of the development of projects since the beginning until it takes a live of its own is one of the things I love the most.\n\nJavascript, Typescript, React, PHP, Angular 2, SQL, MySQL, GraphQL, Node, Express, MongoDB, Vue, Nuxt, (LESS, SASS, SCSS, CSS/CSS3), WordPress. "
@@ -17,7 +17,7 @@ module.exports = {
       email: "GrayceAJoseph@teleworm.us",
       twitter: "grayceajoseph",
       skype: "grayceajoseph",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-02.png",
       place: "Washington, US",
       headline: "Salesforce",
       summary: "I have over 15 years of experience working in product management and data science. Currently, I work as the Head of Product Management at Resume Worded, where I lead a cross-functional team of seven, building unique products that are helping people achieve more in their careers! I'm deeply passionate about creating loved and trusted products that help people navigate their careers and achieve their career goals."
@@ -28,7 +28,7 @@ module.exports = {
       email: "lucas.paige@example.com",
       twitter: "lucaspaige",
       skype: "lucaspaige",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-03.png",
       place: "São Paulo, Brazil",
       headline: "Full Stack Engineer",
       summary: "Previously, I worked at ABC Startup as a Lead Data Scientist, improving products and services for our customers by using advanced analytics, setting up big-data analytical tools (i.e. Hadoop, BigQuery), creating and maintaining models, and onboarding new data sets."
@@ -39,7 +39,7 @@ module.exports = {
       email: "rebecca.terry@example.com",
       twitter: "rebeccaterry",
       skype: "rebeccaterry",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-04.png",
       place: "London, United Kingdom",
       headline: "Certified HR Trainer",
       summary: "I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning."
@@ -50,7 +50,7 @@ module.exports = {
       email: "virginia.lyman@example.com",
       twitter: "virginialyman",
       skype: "virginialyman",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-05.png",
       place: "São Paulo, Brazil",
       headline: "Social Media Manager",
       summary: "My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders. I am able to jump across verticals to deliver high-performing AI solutions."
@@ -61,7 +61,7 @@ module.exports = {
       email: "eric.butler@example.com",
       twitter: "ericbutler",
       skype: "ericbutler",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-06.png",
       place: "Washington, US",
       headline: "Content Marketing Strategist",
       summary: "Every brand has a story behind it - whether that is one that leaves customers feeling informed and educated, or one that sparks joy and delight. I'm passionate about not only defining and articulating that story, but also developing and implementing integrated marketing plans which companies can utilize to tell that story and maximize their reach."
@@ -72,7 +72,7 @@ module.exports = {
       email: "samantha.howard@example.com",
       twitter: "samanthahoward",
       skype: "samanthahoward",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-07.png",
       place: "Paris, France",
       headline: "VP, Brand Management",
       summary: "My passion for communication drew me to public relations and marketing, where I have worked with clients across a range of industries, including retail, education and technology. Until recently, I was a marketing specialist for Resume Worded, the education technology company that is at the forefront of Artificial Intelligence in the EdTech and recruitment space. In this role, I had the opportunity to create multiple integrated marketing campaigns across social, email, PPC and content."
@@ -83,7 +83,7 @@ module.exports = {
       email: "john.mcdonald@example.com",
       twitter: "johnmcdonald",
       skype: "johnmcdonald",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-08.png",
       place: "London, United Kingdom",
       headline: "CPM-certified Product Manager",
       summary: "I'm currently freelancing and I'm open to new opportunities starting January. Please feel free to get in touch with me on welove@resumeworded.com and we can explore how I can help."
@@ -94,7 +94,7 @@ module.exports = {
       email: "sebastian.morrison@example.com",
       twitter: "sebastianmorrison",
       skype: "sebastianmorrison",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-09.png",
       place: "Montreal, Canada",
       headline: "Marketing Manager",
       summary: "Every brand has a story behind it - whether that is one that leaves customers feeling informed and educated, or one that sparks joy and delight. I'm passionate about not only defining and articulating that story, but also developing and implementing integrated marketing plans which companies can utilize to tell that story and maximize their reach."
@@ -105,7 +105,7 @@ module.exports = {
       email: "bernadette.lyman@example.com",
       twitter: "bernadettelyman",
       skype: "bernadettelyman",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-10.png",
       place: "Paris, France",
       headline: "HR Director",
       summary: "We're living in an exhilarating time where you can reach millions of people through so many different channels. That being said, to build a brand, you need to identify the right audience and craft the right story."
@@ -116,7 +116,7 @@ module.exports = {
       email: "eric.hughes@example.com",
       twitter: "erichughes",
       skype: "erichughes",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-11.png",
       place: "Washington, US",
       headline: "Content Marketing Strategist",
       summary: "One of the marketing campaigns I led involved creating a viral video on the future of work, which generated incredible media buzz (300k+ views) and was critical to the successful launch of the LinkedIn Review product (2019). Some of my previous experiences includes being on the marketing team for BigNameCo and developing their launch strategy for ABC product."
@@ -127,7 +127,7 @@ module.exports = {
       email: "elizabeth.paterson@example.com",
       twitter: "elizabethpaterson",
       skype: "elizabethpaterson",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-12.png",
       place: "London, United Kingdom",
       headline: "Administrative Assistant",
       summary: "I always knew that I wanted to write, but I wasn’t ever sure how to go about it. I started a small personal travel blog when I was around 15 and when I joined college, I wrote for my school's magazine (The University News). These experiences led to me getting an internship with a magazine in New York City while I was a junior at college."
@@ -138,7 +138,7 @@ module.exports = {
       email: "anthony.morgan@example.com",
       twitter: "anthonymorgan",
       skype: "anthonymorgan",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-13.png",
       place: "New York, US",
       headline: "Executive Assistant",
       summary: "When I graduated, I joined the Resume Worded Times as an entry-level writer and have been here since! I'm now a Lead Writer on the Editorial Team and over the last three years, I've written over 75+ articles covering a broad range of industries, including education, politics and entertainment. My work has been featured in major publications globally, including Forbes, Resume Worded and Entrepreneur Weekly."
@@ -149,7 +149,7 @@ module.exports = {
       email: "alan.cornish@example.com",
       twitter: "alancornish",
       skype: "alancornish",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-14.png",
       place: "Montreal, Canada",
       headline: "Marketing Manager",
       summary: "Outside of work, I serve on the executive team at the Young Women in Journalism, an organization committed to improving the networking and success of women in journalism across the USA."
@@ -160,7 +160,7 @@ module.exports = {
       email: "jason.rutherford@example.com",
       twitter: "jasonrutherford",
       skype: "jasonrutherford",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-15.png",
       place: "São Paulo, Brazil",
       headline: "Customer Service Representative",
       summary: "I am a financial services professional with 3 years of experience in corporate finance at Goldman Sachs and one year in venture capital. Upon graduating from Stanford Business School in June 2020, I am seeking a position in private equity or venture capital."
@@ -171,7 +171,7 @@ module.exports = {
       email: "sophie.sharp@example.com",
       twitter: "sophiesharp",
       skype: "sophiesharp",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-16.png",
       place: "London, United Kingdom",
       headline: "Nurse Practitioner",
       summary: "I have deep experience in financial analysis, building complex models and learn quickly about new industries and markets. I have participated in joint‐venture negotiations, acquisitions, IPOs and venture financing deals."
@@ -182,7 +182,7 @@ module.exports = {
       email: "austin.avery@example.com",
       twitter: "austinavery",
       skype: "austinavery",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-17.png",
       place: "Paris, France",
       headline: "Software Engineer",
       summary: "At Stanford Business School, my focus has been on Finance, Entrepreneurship and Leadership. Over the summer, I worked at Clearlake Ventures performing valuations and due diligence."
@@ -193,7 +193,7 @@ module.exports = {
       email: "audrey.butler@example.com",
       twitter: "audreybutler",
       skype: "audreybutler",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-18.png",
       place: "Washington, US",
       headline: "Sales Manager",
       summary: "Specialties: Financial analysis, modeling, M&A, venture capital, negotiations, IPOs, forecasting, market analysis, industry analysis"
@@ -204,7 +204,7 @@ module.exports = {
       email: "phil.avery@example.com",
       twitter: "philavery",
       skype: "philavery",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-19.png",
       place: "New York, US",
       headline: "Data Entry Clerk",
       summary: "I have been working in sales for almost five years, and I am now planning a transition into corporate human resources. Although successful in my sales career, I have realized the aspects of my work I find most rewarding are all in HR-related functions:"
@@ -215,7 +215,7 @@ module.exports = {
       email: "bernadette.sharp@example.com",
       twitter: "bernadettesharp",
       skype: "bernadettesharp",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-20.png",
       place: "London, United Kingdom",
       headline: "Office Assistant",
       summary: "Solid foundation in HR affairs: As senior account executive, I have been responsible for a number of HR functions, including recruiting, interviewing, hiring and training new employees. A quick learner of complex concepts and legal issues, I am eager to broaden these competencies."
@@ -226,18 +226,18 @@ module.exports = {
       email: "luke.ball@example.com",
       twitter: "lukeball",
       skype: "lukeball",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-21.png",
       place: "Montreal, Canada",
       headline: "CEO, Producer",
       summary: "I'm currently seeking [opportunities you're looking for], so if you'd like to work together, feel free to connect via LinkedIn or contact me directly at youremail@resumeworded.com!"
     },
     {
       id: 22,
-      name: "James Gibson",
-      email: "james.gibson@example.com",
-      twitter: "jamesgibson",
-      skype: "jamesgibson",
-      photo: "https://i.pravatar.cc/500",
+      name: "Rebecca Richards",
+      email: "rebecca.richards@example.com",
+      twitter: "rebeccarichards",
+      skype: "rebeccarichards",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-22.png",
       place: "São Paulo, Brazil",
       headline: "Inovator",
       summary: "My passion for communication drew me to public relations and marketing, where I have worked with clients across a range of industries, including retail, education and technology. Until recently, I was a marketing specialist for Resume Worded, the education technology company that is at the forefront of Artificial Intelligence in the EdTech and recruitment space. In this role, I had the opportunity to create multiple integrated marketing campaigns across social, email, PPC and content."
@@ -248,18 +248,18 @@ module.exports = {
       email: "lisa.coleman@example.com",
       twitter: "lisacoleman",
       skype: "lisacoleman",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-23.png",
       place: "New York, US",
       headline: "Financial Analyst",
       summary: "I'm currently freelancing and I'm open to new opportunities starting January. Please feel free to get in touch with me on welove@resumeworded.com and we can explore how I can help."
     },
     {
       id: 24,
-      name: "Jake Hunter",
-      email: "jake.hunter@example.com",
-      twitter: "jakehunter",
-      skype: "jakehunter",
-      photo: "https://i.pravatar.cc/500",
+      name: "Susan Johnson",
+      email: "sasan.johnson@example.com",
+      twitter: "sasanjohnson",
+      skype: "sasanjohnson",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-24.png",
       place: "Washington, US",
       headline: "Director of HR",
       summary: "Every brand has a story behind it - whether that is one that leaves customers feeling informed and educated, or one that sparks joy and delight. I'm passionate about not only defining and articulating that story, but also developing and implementing integrated marketing plans which companies can utilize to tell that story and maximize their reach."
@@ -270,40 +270,40 @@ module.exports = {
       email: "alison.watson@example.com",
       twitter: "alisonwatson",
       skype: "alisonwatson",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-25.png",
       place: "New York, US",
       headline: "Trusted Advisor",
       summary: "We're living in an exhilarating time where you can reach millions of people through so many different channels. That being said, to build a brand, you need to identify the right audience and craft the right story."
     },
     {
       id: 26,
-      name: "Charles Thomson",
-      email: "charles.thomson@example.com",
-      twitter: "charlesthomson",
-      skype: "charlesthomson",
-      photo: "https://i.pravatar.cc/500",
+      name: "Margaret Miller",
+      email: "margaret.miller@example.com",
+      twitter: "margaretmiller",
+      skype: "margaretmiller",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-26.png",
       place: "New York, US",
       headline: "Brand Management",
       summary: "One of the marketing campaigns I led involved creating a viral video on the future of work, which generated incredible media buzz (300k+ views) and was critical to the successful launch of the LinkedIn Review product (2019). Some of my previous experiences includes being on the marketing team for BigNameCo and developing their launch strategy for ABC product."
     },
     {
       id: 27,
-      name: "Christian Powell",
-      email: "christian.powell@example.com",
-      twitter: "christianpowell",
-      skype: "christianpowell",
-      photo: "https://i.pravatar.cc/500",
+      name: "Jessica Williams",
+      email: "jessica.willians@example.com",
+      twitter: "jessicawillians",
+      skype: "jessicawillians",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-27.png",
       place: "Montreal, Canada",
       headline: "Sales Development",
       summary: "I always knew that I wanted to write, but I wasn’t ever sure how to go about it. I started a small personal travel blog when I was around 15 and when I joined college, I wrote for my school's magazine (The University News). These experiences led to me getting an internship with a magazine in New York City while I was a junior at college."
     },
     {
       id: 28,
-      name: "Paul Alsop",
-      email: "paul.alsop@example.com",
-      twitter: "paulalsop",
-      skype: "paulalsop",
-      photo: "https://i.pravatar.cc/500",
+      name: "Carol Smith",
+      email: "carol.smith@example.com",
+      twitter: "carolsmith",
+      skype: "carolsmith",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-28.png",
       place: "Paris, France",
       headline: "Social Media Manager",
       summary: "When I graduated, I joined the Resume Worded Times as an entry-level writer and have been here since! I'm now a Lead Writer on the Editorial Team and over the last three years, I've written over 75+ articles covering a broad range of industries, including education, politics and entertainment. My work has been featured in major publications globally, including Forbes, Resume Worded and Entrepreneur Weekly."
@@ -314,7 +314,7 @@ module.exports = {
       email: "richard.welch@example.com",
       twitter: "richardwelch",
       skype: "richardwelch",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-29.png",
       place: "New York, US",
       headline: "Trusted Advisor",
       summary: "Outside of work, I serve on the executive team at the Young Women in Journalism, an organization committed to improving the networking and success of women in journalism across the USA."
@@ -325,7 +325,7 @@ module.exports = {
       email: "christopher.abraham@example.com",
       twitter: "christopherabraham",
       skype: "christopherabraham",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-30.png",
       place: "São Paulo, Brazil",
       headline: "Certified HR Trainer",
       summary: "I am a financial services professional with 3 years of experience in corporate finance at Goldman Sachs and one year in venture capital. Upon graduating from Stanford Business School in June 2020, I am seeking a position in private equity or venture capital."
@@ -338,7 +338,7 @@ module.exports = {
       email: "claudio.bonfati@example.com",
       twitter: "claudioexample",
       skype: "claudioexample",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-01.png",
       place: "São Paulo, Brazil",
       headline: "Software Engineer",
       summary: "I am a full stack developer with a strong background knowledge in web development. Beign apart of the development of projects since the beginning until it takes a live of its own is one of the things I love the most.\n\nJavascript, Typescript, React, PHP, Angular 2, SQL, MySQL, GraphQL, Node, Express, MongoDB, Vue, Nuxt, (LESS, SASS, SCSS, CSS/CSS3), WordPress. "
@@ -349,7 +349,7 @@ module.exports = {
       email: "GrayceAJoseph@teleworm.us",
       twitter: "grayceajoseph",
       skype: "grayceajoseph",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-02.png",
       place: "Washington, US",
       headline: "Salesforce",
       summary: "I have over 15 years of experience working in product management and data science. Currently, I work as the Head of Product Management at Resume Worded, where I lead a cross-functional team of seven, building unique products that are helping people achieve more in their careers! I'm deeply passionate about creating loved and trusted products that help people navigate their careers and achieve their career goals."
@@ -360,7 +360,7 @@ module.exports = {
       email: "lucas.paige@example.com",
       twitter: "lucaspaige",
       skype: "lucaspaige",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-03.png",
       place: "São Paulo, Brazil",
       headline: "Full Stack Engineer",
       summary: "Previously, I worked at ABC Startup as a Lead Data Scientist, improving products and services for our customers by using advanced analytics, setting up big-data analytical tools (i.e. Hadoop, BigQuery), creating and maintaining models, and onboarding new data sets."
@@ -371,7 +371,7 @@ module.exports = {
       email: "rebecca.terry@example.com",
       twitter: "rebeccaterry",
       skype: "rebeccaterry",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-04.png",
       place: "London, United Kingdom",
       headline: "Certified HR Trainer",
       summary: "I am an aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning."
@@ -382,7 +382,7 @@ module.exports = {
       email: "virginia.lyman@example.com",
       twitter: "virginialyman",
       skype: "virginialyman",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-05.png",
       place: "São Paulo, Brazil",
       headline: "Social Media Manager",
       summary: "My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders. I am able to jump across verticals to deliver high-performing AI solutions."
@@ -393,7 +393,7 @@ module.exports = {
       email: "eric.butler@example.com",
       twitter: "ericbutler",
       skype: "ericbutler",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-06.png",
       place: "Washington, US",
       headline: "Content Marketing Strategist",
       summary: "Every brand has a story behind it - whether that is one that leaves customers feeling informed and educated, or one that sparks joy and delight. I'm passionate about not only defining and articulating that story, but also developing and implementing integrated marketing plans which companies can utilize to tell that story and maximize their reach."
@@ -404,7 +404,7 @@ module.exports = {
       email: "samantha.howard@example.com",
       twitter: "samanthahoward",
       skype: "samanthahoward",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-07.png",
       place: "Paris, France",
       headline: "VP, Brand Management",
       summary: "My passion for communication drew me to public relations and marketing, where I have worked with clients across a range of industries, including retail, education and technology. Until recently, I was a marketing specialist for Resume Worded, the education technology company that is at the forefront of Artificial Intelligence in the EdTech and recruitment space. In this role, I had the opportunity to create multiple integrated marketing campaigns across social, email, PPC and content."
@@ -415,7 +415,7 @@ module.exports = {
       email: "john.mcdonald@example.com",
       twitter: "johnmcdonald",
       skype: "johnmcdonald",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-08.png",
       place: "London, United Kingdom",
       headline: "CPM-certified Product Manager",
       summary: "I'm currently freelancing and I'm open to new opportunities starting January. Please feel free to get in touch with me on welove@resumeworded.com and we can explore how I can help."
@@ -426,7 +426,7 @@ module.exports = {
       email: "sebastian.morrison@example.com",
       twitter: "sebastianmorrison",
       skype: "sebastianmorrison",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-09.png",
       place: "Montreal, Canada",
       headline: "Marketing Manager",
       summary: "Every brand has a story behind it - whether that is one that leaves customers feeling informed and educated, or one that sparks joy and delight. I'm passionate about not only defining and articulating that story, but also developing and implementing integrated marketing plans which companies can utilize to tell that story and maximize their reach."
@@ -437,7 +437,7 @@ module.exports = {
       email: "bernadette.lyman@example.com",
       twitter: "bernadettelyman",
       skype: "bernadettelyman",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-10.png",
       place: "Paris, France",
       headline: "HR Director",
       summary: "We're living in an exhilarating time where you can reach millions of people through so many different channels. That being said, to build a brand, you need to identify the right audience and craft the right story."
@@ -448,7 +448,7 @@ module.exports = {
       email: "eric.hughes@example.com",
       twitter: "erichughes",
       skype: "erichughes",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-11.png",
       place: "Washington, US",
       headline: "Content Marketing Strategist",
       summary: "One of the marketing campaigns I led involved creating a viral video on the future of work, which generated incredible media buzz (300k+ views) and was critical to the successful launch of the LinkedIn Review product (2019). Some of my previous experiences includes being on the marketing team for BigNameCo and developing their launch strategy for ABC product."
@@ -459,7 +459,7 @@ module.exports = {
       email: "elizabeth.paterson@example.com",
       twitter: "elizabethpaterson",
       skype: "elizabethpaterson",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-12.png",
       place: "London, United Kingdom",
       headline: "Administrative Assistant",
       summary: "I always knew that I wanted to write, but I wasn’t ever sure how to go about it. I started a small personal travel blog when I was around 15 and when I joined college, I wrote for my school's magazine (The University News). These experiences led to me getting an internship with a magazine in New York City while I was a junior at college."
@@ -470,7 +470,7 @@ module.exports = {
       email: "anthony.morgan@example.com",
       twitter: "anthonymorgan",
       skype: "anthonymorgan",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-13.png",
       place: "New York, US",
       headline: "Executive Assistant",
       summary: "When I graduated, I joined the Resume Worded Times as an entry-level writer and have been here since! I'm now a Lead Writer on the Editorial Team and over the last three years, I've written over 75+ articles covering a broad range of industries, including education, politics and entertainment. My work has been featured in major publications globally, including Forbes, Resume Worded and Entrepreneur Weekly."
@@ -481,7 +481,7 @@ module.exports = {
       email: "alan.cornish@example.com",
       twitter: "alancornish",
       skype: "alancornish",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-14.png",
       place: "Montreal, Canada",
       headline: "Marketing Manager",
       summary: "Outside of work, I serve on the executive team at the Young Women in Journalism, an organization committed to improving the networking and success of women in journalism across the USA."
@@ -492,7 +492,7 @@ module.exports = {
       email: "jason.rutherford@example.com",
       twitter: "jasonrutherford",
       skype: "jasonrutherford",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-15.png",
       place: "São Paulo, Brazil",
       headline: "Customer Service Representative",
       summary: "I am a financial services professional with 3 years of experience in corporate finance at Goldman Sachs and one year in venture capital. Upon graduating from Stanford Business School in June 2020, I am seeking a position in private equity or venture capital."
@@ -503,7 +503,7 @@ module.exports = {
       email: "sophie.sharp@example.com",
       twitter: "sophiesharp",
       skype: "sophiesharp",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-16.png",
       place: "London, United Kingdom",
       headline: "Nurse Practitioner",
       summary: "I have deep experience in financial analysis, building complex models and learn quickly about new industries and markets. I have participated in joint‐venture negotiations, acquisitions, IPOs and venture financing deals."
@@ -514,7 +514,7 @@ module.exports = {
       email: "austin.avery@example.com",
       twitter: "austinavery",
       skype: "austinavery",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-17.png",
       place: "Paris, France",
       headline: "Software Engineer",
       summary: "At Stanford Business School, my focus has been on Finance, Entrepreneurship and Leadership. Over the summer, I worked at Clearlake Ventures performing valuations and due diligence."
@@ -525,7 +525,7 @@ module.exports = {
       email: "audrey.butler@example.com",
       twitter: "audreybutler",
       skype: "audreybutler",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-18.png",
       place: "Washington, US",
       headline: "Sales Manager",
       summary: "Specialties: Financial analysis, modeling, M&A, venture capital, negotiations, IPOs, forecasting, market analysis, industry analysis"
@@ -536,7 +536,7 @@ module.exports = {
       email: "phil.avery@example.com",
       twitter: "philavery",
       skype: "philavery",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-19.png",
       place: "New York, US",
       headline: "Data Entry Clerk",
       summary: "I have been working in sales for almost five years, and I am now planning a transition into corporate human resources. Although successful in my sales career, I have realized the aspects of my work I find most rewarding are all in HR-related functions:"
@@ -547,7 +547,7 @@ module.exports = {
       email: "bernadette.sharp@example.com",
       twitter: "bernadettesharp",
       skype: "bernadettesharp",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-20.png",
       place: "London, United Kingdom",
       headline: "Office Assistant",
       summary: "Solid foundation in HR affairs: As senior account executive, I have been responsible for a number of HR functions, including recruiting, interviewing, hiring and training new employees. A quick learner of complex concepts and legal issues, I am eager to broaden these competencies."
@@ -558,18 +558,18 @@ module.exports = {
       email: "luke.ball@example.com",
       twitter: "lukeball",
       skype: "lukeball",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-21.png",
       place: "Montreal, Canada",
       headline: "CEO, Producer",
       summary: "I'm currently seeking [opportunities you're looking for], so if you'd like to work together, feel free to connect via LinkedIn or contact me directly at youremail@resumeworded.com!"
     },
     {
       id: 22,
-      name: "James Gibson",
-      email: "james.gibson@example.com",
-      twitter: "jamesgibson",
-      skype: "jamesgibson",
-      photo: "https://i.pravatar.cc/500",
+      name: "Rebecca Richards",
+      email: "rebecca.richards@example.com",
+      twitter: "rebeccarichards",
+      skype: "rebeccarichards",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-22.png",
       place: "São Paulo, Brazil",
       headline: "Inovator",
       summary: "My passion for communication drew me to public relations and marketing, where I have worked with clients across a range of industries, including retail, education and technology. Until recently, I was a marketing specialist for Resume Worded, the education technology company that is at the forefront of Artificial Intelligence in the EdTech and recruitment space. In this role, I had the opportunity to create multiple integrated marketing campaigns across social, email, PPC and content."
@@ -580,18 +580,18 @@ module.exports = {
       email: "lisa.coleman@example.com",
       twitter: "lisacoleman",
       skype: "lisacoleman",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-23.png",
       place: "New York, US",
       headline: "Financial Analyst",
       summary: "I'm currently freelancing and I'm open to new opportunities starting January. Please feel free to get in touch with me on welove@resumeworded.com and we can explore how I can help."
     },
     {
       id: 24,
-      name: "Jake Hunter",
-      email: "jake.hunter@example.com",
-      twitter: "jakehunter",
-      skype: "jakehunter",
-      photo: "https://i.pravatar.cc/500",
+      name: "Susan Johnson",
+      email: "sasan.johnson@example.com",
+      twitter: "sasanjohnson",
+      skype: "sasanjohnson",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-24.png",
       place: "Washington, US",
       headline: "Director of HR",
       summary: "Every brand has a story behind it - whether that is one that leaves customers feeling informed and educated, or one that sparks joy and delight. I'm passionate about not only defining and articulating that story, but also developing and implementing integrated marketing plans which companies can utilize to tell that story and maximize their reach."
@@ -602,40 +602,40 @@ module.exports = {
       email: "alison.watson@example.com",
       twitter: "alisonwatson",
       skype: "alisonwatson",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-25.png",
       place: "New York, US",
       headline: "Trusted Advisor",
       summary: "We're living in an exhilarating time where you can reach millions of people through so many different channels. That being said, to build a brand, you need to identify the right audience and craft the right story."
     },
     {
       id: 26,
-      name: "Charles Thomson",
-      email: "charles.thomson@example.com",
-      twitter: "charlesthomson",
-      skype: "charlesthomson",
-      photo: "https://i.pravatar.cc/500",
+      name: "Margaret Miller",
+      email: "margaret.miller@example.com",
+      twitter: "margaretmiller",
+      skype: "margaretmiller",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-26.png",
       place: "New York, US",
       headline: "Brand Management",
       summary: "One of the marketing campaigns I led involved creating a viral video on the future of work, which generated incredible media buzz (300k+ views) and was critical to the successful launch of the LinkedIn Review product (2019). Some of my previous experiences includes being on the marketing team for BigNameCo and developing their launch strategy for ABC product."
     },
     {
       id: 27,
-      name: "Christian Powell",
-      email: "christian.powell@example.com",
-      twitter: "christianpowell",
-      skype: "christianpowell",
-      photo: "https://i.pravatar.cc/500",
+      name: "Jessica Williams",
+      email: "jessica.willians@example.com",
+      twitter: "jessicawillians",
+      skype: "jessicawillians",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-27.png",
       place: "Montreal, Canada",
       headline: "Sales Development",
       summary: "I always knew that I wanted to write, but I wasn’t ever sure how to go about it. I started a small personal travel blog when I was around 15 and when I joined college, I wrote for my school's magazine (The University News). These experiences led to me getting an internship with a magazine in New York City while I was a junior at college."
     },
     {
       id: 28,
-      name: "Paul Alsop",
-      email: "paul.alsop@example.com",
-      twitter: "paulalsop",
-      skype: "paulalsop",
-      photo: "https://i.pravatar.cc/500",
+      name: "Carol Smith",
+      email: "carol.smith@example.com",
+      twitter: "carolsmith",
+      skype: "carolsmith",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-28.png",
       place: "Paris, France",
       headline: "Social Media Manager",
       summary: "When I graduated, I joined the Resume Worded Times as an entry-level writer and have been here since! I'm now a Lead Writer on the Editorial Team and over the last three years, I've written over 75+ articles covering a broad range of industries, including education, politics and entertainment. My work has been featured in major publications globally, including Forbes, Resume Worded and Entrepreneur Weekly."
@@ -646,7 +646,7 @@ module.exports = {
       email: "richard.welch@example.com",
       twitter: "richardwelch",
       skype: "richardwelch",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-29.png",
       place: "New York, US",
       headline: "Trusted Advisor",
       summary: "Outside of work, I serve on the executive team at the Young Women in Journalism, an organization committed to improving the networking and success of women in journalism across the USA."
@@ -657,7 +657,7 @@ module.exports = {
       email: "christopher.abraham@example.com",
       twitter: "christopherabraham",
       skype: "christopherabraham",
-      photo: "https://i.pravatar.cc/500",
+      photo: "https://linkedinconcept.s3.amazonaws.com/pp-30.png",
       place: "São Paulo, Brazil",
       headline: "Certified HR Trainer",
       summary: "I am a financial services professional with 3 years of experience in corporate finance at Goldman Sachs and one year in venture capital. Upon graduating from Stanford Business School in June 2020, I am seeking a position in private equity or venture capital."
@@ -2463,6 +2463,16 @@ module.exports = {
       time:"16 min"
     },
     {
+      id:64,
+      user_id:1,
+      company_id:null,
+      body:"Hey everyone,<br/><br/>A few months ago I decided to build a personal finance management app to put together some skills into one single project. And now it is finally done!<br/>I present you MoneyManager!! (super original name btw). The project took me more time to finish it than I thought at the beginning, but I really enjoyed the final result.<br/>The app allows you to add your monthly income and expenses, individual or recurring, and it keeps all the history of transactions and balances retroactive.<br/><br/>Live: <a href='https://lnkd.in/gzEnYVg' target='_blank'>https://lnkd.in/gzEnYVg</a><br/>GitHub: <a href='https://lnkd.in/gfGXvwm' target='_blank'>https://lnkd.in/gfGXvwm</a>",
+      image:null,
+      video:498675036,
+      likes:524,
+      time:"1 month"
+    },
+    {
       id:8,
       user_id:2,
       company_id:null,
@@ -3001,16 +3011,6 @@ module.exports = {
       video:264455468,
       likes:1245,
       time:"6 days"
-    },
-    {
-      id:64,
-      user_id:1,
-      company_id:null,
-      body:"Hey everyone,<br/><br/>A few months ago I decided to build a personal finance management app to put together some skills into one single project. And now it is finally done!<br/>I present you MoneyManager!! (super original name btw). The project took me more time to finish it than I thought at the beginning, but I really enjoyed the final result.<br/>The app allows you to add your monthly income and expenses, individual or recurring, and it keeps all the history of transactions and balances retroactive.<br/><br/>Live: <a href='https://lnkd.in/gzEnYVg' target='_blank'>https://lnkd.in/gzEnYVg</a><br/>GitHub: <a href='https://lnkd.in/gfGXvwm' target='_blank'>https://lnkd.in/gfGXvwm</a>",
-      image:null,
-      video:498675036,
-      likes:524,
-      time:"1 month"
     },
     {
       id:65,

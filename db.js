@@ -1866,7 +1866,7 @@ module.exports = {
       id: 18,
       user_id: 1,
       author_id: 29,
-      description: "I could recommend her as a person with profound knowledge and great abilities of advanced business solutions."
+      description: "I could recommend Claudio as a person with profound knowledge and great abilities of advanced business solutions."
     },
     {
       id: 19,
@@ -1932,7 +1932,7 @@ module.exports = {
       id: 29,
       user_id: 1,
       author_id: 10,
-      description: "Her leadership and organizational skills have been invaluable to the company. "
+      description: "His leadership and organizational skills have been invaluable to the company. "
     },
     {
       id: 30,

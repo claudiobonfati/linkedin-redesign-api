@@ -3,6 +3,7 @@ module.exports = {
     {
       id: 1,
       name: "Claudio Bonfati",
+      username: "claudiobonfati",
       email: "claudio.bonfati@example.com",
       twitter: "claudioexample",
       skype: "claudioexample",
@@ -14,6 +15,7 @@ module.exports = {
     {
       id: 2,
       name: "Grayce A. Joseph",
+      username: "graycejoseph",
       email: "GrayceAJoseph@teleworm.us",
       twitter: "grayceajoseph",
       skype: "grayceajoseph",
@@ -25,6 +27,7 @@ module.exports = {
     {
       id: 3,
       name: "Lucas Paige",
+      username: "lucaspaige",
       email: "lucas.paige@example.com",
       twitter: "lucaspaige",
       skype: "lucaspaige",
@@ -36,6 +39,7 @@ module.exports = {
     {
       id: 4,
       name: "Rebecca Terry",
+      username: "rebeccaterry",
       email: "rebecca.terry@example.com",
       twitter: "rebeccaterry",
       skype: "rebeccaterry",
@@ -47,6 +51,7 @@ module.exports = {
     {
       id: 5,
       name: "Virginia Lyman",
+      username: "virginialyman",
       email: "virginia.lyman@example.com",
       twitter: "virginialyman",
       skype: "virginialyman",
@@ -58,6 +63,7 @@ module.exports = {
     {
       id: 6,
       name: "Eric Butler",
+      username: "ericbutler",
       email: "eric.butler@example.com",
       twitter: "ericbutler",
       skype: "ericbutler",
@@ -69,6 +75,7 @@ module.exports = {
     {
       id: 7,
       name: "Samantha Howard",
+      username: "samanthahoward",
       email: "samantha.howard@example.com",
       twitter: "samanthahoward",
       skype: "samanthahoward",
@@ -80,6 +87,7 @@ module.exports = {
     {
       id: 8,
       name: "John McDonald",
+      username: "johnmcdonald",
       email: "john.mcdonald@example.com",
       twitter: "johnmcdonald",
       skype: "johnmcdonald",
@@ -91,6 +99,7 @@ module.exports = {
     {
       id: 9,
       name: "Sebastian Morrison",
+      username: "sebastianmorrison",
       email: "sebastian.morrison@example.com",
       twitter: "sebastianmorrison",
       skype: "sebastianmorrison",
@@ -102,6 +111,7 @@ module.exports = {
     {
       id: 10,
       name: "Bernadette Lyman",
+      username: "bernadettelyman",
       email: "bernadette.lyman@example.com",
       twitter: "bernadettelyman",
       skype: "bernadettelyman",
@@ -113,6 +123,7 @@ module.exports = {
     {
       id: 11,
       name: "Eric Hughes",
+      username: "erichughes",
       email: "eric.hughes@example.com",
       twitter: "erichughes",
       skype: "erichughes",
@@ -124,6 +135,7 @@ module.exports = {
     {
       id: 12,
       name: "Elizabeth Paterson",
+      username: "elizabethpaterson",
       email: "elizabeth.paterson@example.com",
       twitter: "elizabethpaterson",
       skype: "elizabethpaterson",
@@ -135,6 +147,7 @@ module.exports = {
     {
       id: 13,
       name: "Anthony Morgan",
+      username: "anthonymorgan",
       email: "anthony.morgan@example.com",
       twitter: "anthonymorgan",
       skype: "anthonymorgan",
@@ -146,6 +159,7 @@ module.exports = {
     {
       id: 14,
       name: "Alan Cornish",
+      username: "alancornish",
       email: "alan.cornish@example.com",
       twitter: "alancornish",
       skype: "alancornish",
@@ -157,6 +171,7 @@ module.exports = {
     {
       id: 15,
       name: "Jason Rutherford",
+      username: "jasonrutherford",
       email: "jason.rutherford@example.com",
       twitter: "jasonrutherford",
       skype: "jasonrutherford",
@@ -168,6 +183,7 @@ module.exports = {
     {
       id: 16,
       name: "Sophie Sharp",
+      username: "sophiesharp",
       email: "sophie.sharp@example.com",
       twitter: "sophiesharp",
       skype: "sophiesharp",
@@ -179,6 +195,7 @@ module.exports = {
     {
       id: 17,
       name: "Austin Avery",
+      username: "austinavery",
       email: "austin.avery@example.com",
       twitter: "austinavery",
       skype: "austinavery",
@@ -190,6 +207,7 @@ module.exports = {
     {
       id: 18,
       name: "Audrey Butler",
+      username: "audreybutler",
       email: "audrey.butler@example.com",
       twitter: "audreybutler",
       skype: "audreybutler",
@@ -201,6 +219,7 @@ module.exports = {
     {
       id: 19,
       name: "Phil Avery",
+      username: "philavery",
       email: "phil.avery@example.com",
       twitter: "philavery",
       skype: "philavery",
@@ -212,6 +231,7 @@ module.exports = {
     {
       id: 20,
       name: "Bernadette Sharp",
+      username: "bernadettesharp",
       email: "bernadette.sharp@example.com",
       twitter: "bernadettesharp",
       skype: "bernadettesharp",
@@ -223,6 +243,7 @@ module.exports = {
     {
       id: 21,
       name: "Luke Ball",
+      username: "lukeball",
       email: "luke.ball@example.com",
       twitter: "lukeball",
       skype: "lukeball",
@@ -234,6 +255,7 @@ module.exports = {
     {
       id: 22,
       name: "Rebecca Richards",
+      username: "rebeccarichards",
       email: "rebecca.richards@example.com",
       twitter: "rebeccarichards",
       skype: "rebeccarichards",
@@ -245,6 +267,7 @@ module.exports = {
     {
       id: 23,
       name: "Lisa Coleman",
+      username: "lisacoleman",
       email: "lisa.coleman@example.com",
       twitter: "lisacoleman",
       skype: "lisacoleman",
@@ -256,6 +279,7 @@ module.exports = {
     {
       id: 24,
       name: "Susan Johnson",
+      username: "susanjohnson",
       email: "sasan.johnson@example.com",
       twitter: "sasanjohnson",
       skype: "sasanjohnson",
@@ -267,6 +291,7 @@ module.exports = {
     {
       id: 25,
       name: "Alison Watson",
+      username: "alisonwatson",
       email: "alison.watson@example.com",
       twitter: "alisonwatson",
       skype: "alisonwatson",
@@ -278,6 +303,7 @@ module.exports = {
     {
       id: 26,
       name: "Margaret Miller",
+      username: "margaretmiller",
       email: "margaret.miller@example.com",
       twitter: "margaretmiller",
       skype: "margaretmiller",
@@ -289,6 +315,7 @@ module.exports = {
     {
       id: 27,
       name: "Jessica Williams",
+      username: "jessicawilliams",
       email: "jessica.willians@example.com",
       twitter: "jessicawillians",
       skype: "jessicawillians",
@@ -300,6 +327,7 @@ module.exports = {
     {
       id: 28,
       name: "Carol Smith",
+      username: "carolsmith",
       email: "carol.smith@example.com",
       twitter: "carolsmith",
       skype: "carolsmith",
@@ -311,6 +339,7 @@ module.exports = {
     {
       id: 29,
       name: "Richard Welch",
+      username: "richardwelch",
       email: "richard.welch@example.com",
       twitter: "richardwelch",
       skype: "richardwelch",
@@ -322,6 +351,7 @@ module.exports = {
     {
       id: 30,
       name: "Christopher Abraham",
+      username: "christopherabraham",
       email: "christopher.abraham@example.com",
       twitter: "christopherabraham",
       skype: "christopherabraham",
@@ -335,6 +365,7 @@ module.exports = {
     {
       id: 1,
       name: "Claudio Bonfati",
+      username: "claudiobonfati",
       email: "claudio.bonfati@example.com",
       twitter: "claudioexample",
       skype: "claudioexample",
@@ -346,6 +377,7 @@ module.exports = {
     {
       id: 2,
       name: "Grayce A. Joseph",
+      username: "graycejoseph",
       email: "GrayceAJoseph@teleworm.us",
       twitter: "grayceajoseph",
       skype: "grayceajoseph",
@@ -357,6 +389,7 @@ module.exports = {
     {
       id: 3,
       name: "Lucas Paige",
+      username: "lucaspaige",
       email: "lucas.paige@example.com",
       twitter: "lucaspaige",
       skype: "lucaspaige",
@@ -368,6 +401,7 @@ module.exports = {
     {
       id: 4,
       name: "Rebecca Terry",
+      username: "rebeccaterry",
       email: "rebecca.terry@example.com",
       twitter: "rebeccaterry",
       skype: "rebeccaterry",
@@ -379,6 +413,7 @@ module.exports = {
     {
       id: 5,
       name: "Virginia Lyman",
+      username: "virginialyman",
       email: "virginia.lyman@example.com",
       twitter: "virginialyman",
       skype: "virginialyman",
@@ -390,6 +425,7 @@ module.exports = {
     {
       id: 6,
       name: "Eric Butler",
+      username: "ericbutler",
       email: "eric.butler@example.com",
       twitter: "ericbutler",
       skype: "ericbutler",
@@ -401,6 +437,7 @@ module.exports = {
     {
       id: 7,
       name: "Samantha Howard",
+      username: "samanthahoward",
       email: "samantha.howard@example.com",
       twitter: "samanthahoward",
       skype: "samanthahoward",
@@ -412,6 +449,7 @@ module.exports = {
     {
       id: 8,
       name: "John McDonald",
+      username: "johnmcdonald",
       email: "john.mcdonald@example.com",
       twitter: "johnmcdonald",
       skype: "johnmcdonald",
@@ -423,6 +461,7 @@ module.exports = {
     {
       id: 9,
       name: "Sebastian Morrison",
+      username: "sebastianmorrison",
       email: "sebastian.morrison@example.com",
       twitter: "sebastianmorrison",
       skype: "sebastianmorrison",
@@ -434,6 +473,7 @@ module.exports = {
     {
       id: 10,
       name: "Bernadette Lyman",
+      username: "bernadettelyman",
       email: "bernadette.lyman@example.com",
       twitter: "bernadettelyman",
       skype: "bernadettelyman",
@@ -445,6 +485,7 @@ module.exports = {
     {
       id: 11,
       name: "Eric Hughes",
+      username: "erichughes",
       email: "eric.hughes@example.com",
       twitter: "erichughes",
       skype: "erichughes",
@@ -456,6 +497,7 @@ module.exports = {
     {
       id: 12,
       name: "Elizabeth Paterson",
+      username: "elizabethpaterson",
       email: "elizabeth.paterson@example.com",
       twitter: "elizabethpaterson",
       skype: "elizabethpaterson",
@@ -467,6 +509,7 @@ module.exports = {
     {
       id: 13,
       name: "Anthony Morgan",
+      username: "anthonymorgan",
       email: "anthony.morgan@example.com",
       twitter: "anthonymorgan",
       skype: "anthonymorgan",
@@ -478,6 +521,7 @@ module.exports = {
     {
       id: 14,
       name: "Alan Cornish",
+      username: "alancornish",
       email: "alan.cornish@example.com",
       twitter: "alancornish",
       skype: "alancornish",
@@ -489,6 +533,7 @@ module.exports = {
     {
       id: 15,
       name: "Jason Rutherford",
+      username: "jasonrutherford",
       email: "jason.rutherford@example.com",
       twitter: "jasonrutherford",
       skype: "jasonrutherford",
@@ -500,6 +545,7 @@ module.exports = {
     {
       id: 16,
       name: "Sophie Sharp",
+      username: "sophiesharp",
       email: "sophie.sharp@example.com",
       twitter: "sophiesharp",
       skype: "sophiesharp",
@@ -511,6 +557,7 @@ module.exports = {
     {
       id: 17,
       name: "Austin Avery",
+      username: "austinavery",
       email: "austin.avery@example.com",
       twitter: "austinavery",
       skype: "austinavery",
@@ -522,6 +569,7 @@ module.exports = {
     {
       id: 18,
       name: "Audrey Butler",
+      username: "audreybutler",
       email: "audrey.butler@example.com",
       twitter: "audreybutler",
       skype: "audreybutler",
@@ -533,6 +581,7 @@ module.exports = {
     {
       id: 19,
       name: "Phil Avery",
+      username: "philavery",
       email: "phil.avery@example.com",
       twitter: "philavery",
       skype: "philavery",
@@ -544,6 +593,7 @@ module.exports = {
     {
       id: 20,
       name: "Bernadette Sharp",
+      username: "bernadettesharp",
       email: "bernadette.sharp@example.com",
       twitter: "bernadettesharp",
       skype: "bernadettesharp",
@@ -555,6 +605,7 @@ module.exports = {
     {
       id: 21,
       name: "Luke Ball",
+      username: "lukeball",
       email: "luke.ball@example.com",
       twitter: "lukeball",
       skype: "lukeball",
@@ -566,6 +617,7 @@ module.exports = {
     {
       id: 22,
       name: "Rebecca Richards",
+      username: "rebeccarichards",
       email: "rebecca.richards@example.com",
       twitter: "rebeccarichards",
       skype: "rebeccarichards",
@@ -577,6 +629,7 @@ module.exports = {
     {
       id: 23,
       name: "Lisa Coleman",
+      username: "lisacoleman",
       email: "lisa.coleman@example.com",
       twitter: "lisacoleman",
       skype: "lisacoleman",
@@ -588,6 +641,7 @@ module.exports = {
     {
       id: 24,
       name: "Susan Johnson",
+      username: "susanjohnson",
       email: "sasan.johnson@example.com",
       twitter: "sasanjohnson",
       skype: "sasanjohnson",
@@ -599,6 +653,7 @@ module.exports = {
     {
       id: 25,
       name: "Alison Watson",
+      username: "alisonwatson",
       email: "alison.watson@example.com",
       twitter: "alisonwatson",
       skype: "alisonwatson",
@@ -610,6 +665,7 @@ module.exports = {
     {
       id: 26,
       name: "Margaret Miller",
+      username: "margaretmiller",
       email: "margaret.miller@example.com",
       twitter: "margaretmiller",
       skype: "margaretmiller",
@@ -621,6 +677,7 @@ module.exports = {
     {
       id: 27,
       name: "Jessica Williams",
+      username: "jessicawilliams",
       email: "jessica.willians@example.com",
       twitter: "jessicawillians",
       skype: "jessicawillians",
@@ -632,6 +689,7 @@ module.exports = {
     {
       id: 28,
       name: "Carol Smith",
+      username: "carolsmith",
       email: "carol.smith@example.com",
       twitter: "carolsmith",
       skype: "carolsmith",
@@ -643,6 +701,7 @@ module.exports = {
     {
       id: 29,
       name: "Richard Welch",
+      username: "richardwelch",
       email: "richard.welch@example.com",
       twitter: "richardwelch",
       skype: "richardwelch",
@@ -654,6 +713,7 @@ module.exports = {
     {
       id: 30,
       name: "Christopher Abraham",
+      username: "christopherabraham",
       email: "christopher.abraham@example.com",
       twitter: "christopherabraham",
       skype: "christopherabraham",

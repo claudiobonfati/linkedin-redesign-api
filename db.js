@@ -7,6 +7,7 @@ module.exports = {
       email: "claudio.bonfati@example.com",
       twitter: "claudioexample",
       skype: "claudioexample",
+      lastOnline: "2 hours ago",
       connections: 1808,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-01.png",
       place: "São Paulo, Brazil",
@@ -20,6 +21,7 @@ module.exports = {
       email: "GrayceAJoseph@teleworm.us",
       twitter: "grayceajoseph",
       skype: "grayceajoseph",
+      lastOnline: "9 hours ago",
       connections: 2078,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-02.png",
       place: "Washington, US",
@@ -33,6 +35,7 @@ module.exports = {
       email: "lucas.paige@example.com",
       twitter: "lucaspaige",
       skype: "lucaspaige",
+      lastOnline: "2 days ago",
       connections: 2241,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-03.png",
       place: "São Paulo, Brazil",
@@ -46,6 +49,7 @@ module.exports = {
       email: "rebecca.terry@example.com",
       twitter: "rebeccaterry",
       skype: "rebeccaterry",
+      lastOnline: "5 days ago",
       connections: 2278,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-04.png",
       place: "London, United Kingdom",
@@ -59,6 +63,7 @@ module.exports = {
       email: "virginia.lyman@example.com",
       twitter: "virginialyman",
       skype: "virginialyman",
+      lastOnline: "2 weeks ago",
       connections: 2166,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-05.png",
       place: "São Paulo, Brazil",
@@ -72,6 +77,7 @@ module.exports = {
       email: "eric.butler@example.com",
       twitter: "ericbutler",
       skype: "ericbutler",
+      lastOnline: "6 days ago",
       connections: 1035,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-06.png",
       place: "Washington, US",
@@ -85,6 +91,7 @@ module.exports = {
       email: "samantha.howard@example.com",
       twitter: "samanthahoward",
       skype: "samanthahoward",
+      lastOnline: "5 days ago",
       connections: 1088,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-07.png",
       place: "Paris, France",
@@ -93,16 +100,17 @@ module.exports = {
     },
     {
       id: 8,
-      name: "Josh McDonald",
-      username: "joshmcdonald",
-      email: "josh.mcdonald@example.com",
-      twitter: "joshmcdonald",
-      skype: "joshmcdonald",
-      connections: 2873,
+      name: "John McDonald",
+      username: "johnmcdonald",
+      email: "john.mcdonald@example.com",
+      twitter: "johnmcdonald",
+      skype: "johnmcdonald",
+      lastOnline: "4 days ago",
+      connections: 2012,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-08.png",
       place: "London, United Kingdom",
       headline: "CPM-certified Product Manager",
-      summary: "I'm currently freelancing and I'm open to new opportunities starting January. Please feel free to get in touch with me on joshmcdonald@example.com and we can explore how I can help."
+      summary: "I'm currently freelancing and I'm open to new opportunities starting January. Please feel free to get in touch with me on welove@example.com and we can explore how I can help."
     },
     {
       id: 9,
@@ -111,6 +119,7 @@ module.exports = {
       email: "sebastian.morrison@example.com",
       twitter: "sebastianmorrison",
       skype: "sebastianmorrison",
+      lastOnline: "3 days ago",
       connections: 2987,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-09.png",
       place: "Montreal, Canada",
@@ -124,6 +133,7 @@ module.exports = {
       email: "bernadette.lyman@example.com",
       twitter: "bernadettelyman",
       skype: "bernadettelyman",
+      lastOnline: "2 days ago",
       connections: 1526,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-10.png",
       place: "Paris, France",
@@ -137,6 +147,7 @@ module.exports = {
       email: "eric.hughes@example.com",
       twitter: "erichughes",
       skype: "erichughes",
+      lastOnline: "yesterday",
       connections: 2202,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-11.png",
       place: "Washington, US",
@@ -150,6 +161,7 @@ module.exports = {
       email: "elizabeth.paterson@example.com",
       twitter: "elizabethpaterson",
       skype: "elizabethpaterson",
+      lastOnline: "yesterday",
       connections: 2349,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-12.png",
       place: "London, United Kingdom",
@@ -163,6 +175,7 @@ module.exports = {
       email: "anthony.morgan@example.com",
       twitter: "anthonymorgan",
       skype: "anthonymorgan",
+      lastOnline: "yesterday",
       connections: 1274,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-13.png",
       place: "New York, US",
@@ -176,6 +189,7 @@ module.exports = {
       email: "alan.cornish@example.com",
       twitter: "alancornish",
       skype: "alancornish",
+      lastOnline: "yesterday",
       connections: 1904,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-14.png",
       place: "Montreal, Canada",
@@ -189,6 +203,7 @@ module.exports = {
       email: "jason.rutherford@example.com",
       twitter: "jasonrutherford",
       skype: "jasonrutherford",
+      lastOnline: "2 weeks ago",
       connections: 1391,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-15.png",
       place: "São Paulo, Brazil",
@@ -202,6 +217,7 @@ module.exports = {
       email: "sophie.sharp@example.com",
       twitter: "sophiesharp",
       skype: "sophiesharp",
+      lastOnline: "6 days ago",
       connections: 2217,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-16.png",
       place: "London, United Kingdom",
@@ -215,6 +231,7 @@ module.exports = {
       email: "austin.avery@example.com",
       twitter: "austinavery",
       skype: "austinavery",
+      lastOnline: "6 days ago",
       connections: 950,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-17.png",
       place: "Paris, France",
@@ -228,6 +245,7 @@ module.exports = {
       email: "audrey.butler@example.com",
       twitter: "audreybutler",
       skype: "audreybutler",
+      lastOnline: "yesterday",
       connections: 2674,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-18.png",
       place: "Washington, US",
@@ -241,6 +259,7 @@ module.exports = {
       email: "phil.avery@example.com",
       twitter: "philavery",
       skype: "philavery",
+      lastOnline: "yesterday",
       connections: 1527,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-19.png",
       place: "New York, US",
@@ -254,6 +273,7 @@ module.exports = {
       email: "bernadette.sharp@example.com",
       twitter: "bernadettesharp",
       skype: "bernadettesharp",
+      lastOnline: "yesterday",
       connections: 2087,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-20.png",
       place: "London, United Kingdom",
@@ -267,6 +287,7 @@ module.exports = {
       email: "luke.ball@example.com",
       twitter: "lukeball",
       skype: "lukeball",
+      lastOnline: "yesterday",
       connections: 2318,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-21.png",
       place: "Montreal, Canada",
@@ -280,6 +301,7 @@ module.exports = {
       email: "rebecca.richards@example.com",
       twitter: "rebeccarichards",
       skype: "rebeccarichards",
+      lastOnline: "3 hours ago",
       connections: 1696,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-22.png",
       place: "São Paulo, Brazil",
@@ -293,11 +315,12 @@ module.exports = {
       email: "lisa.coleman@example.com",
       twitter: "lisacoleman",
       skype: "lisacoleman",
+      lastOnline: "3 hours ago",
       connections: 2461,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-23.png",
       place: "New York, US",
       headline: "Financial Analyst",
-      summary: "I'm currently freelancing and I'm open to new opportunities starting January. Please feel free to get in touch with me on welove@resumeworded.com and we can explore how I can help."
+      summary: "I'm currently freelancing and I'm open to new opportunities starting January. Please feel free to get in touch with me on welove@example.com and we can explore how I can help."
     },
     {
       id: 24,
@@ -306,6 +329,7 @@ module.exports = {
       email: "sasan.johnson@example.com",
       twitter: "sasanjohnson",
       skype: "sasanjohnson",
+      lastOnline: "3 hours ago",
       connections: 2150,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-24.png",
       place: "Washington, US",
@@ -319,6 +343,7 @@ module.exports = {
       email: "alison.watson@example.com",
       twitter: "alisonwatson",
       skype: "alisonwatson",
+      lastOnline: "3 hours ago",
       connections: 1611,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-25.png",
       place: "New York, US",
@@ -332,6 +357,7 @@ module.exports = {
       email: "margaret.miller@example.com",
       twitter: "margaretmiller",
       skype: "margaretmiller",
+      lastOnline: "2 hours ago",
       connections: 2536,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-26.png",
       place: "New York, US",
@@ -345,6 +371,7 @@ module.exports = {
       email: "jessica.willians@example.com",
       twitter: "jessicawillians",
       skype: "jessicawillians",
+      lastOnline: "2 hours ago",
       connections: 1859,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-27.png",
       place: "Montreal, Canada",
@@ -358,6 +385,7 @@ module.exports = {
       email: "carol.smith@example.com",
       twitter: "carolsmith",
       skype: "carolsmith",
+      lastOnline: "2 hours ago",
       connections: 1973,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-28.png",
       place: "Paris, France",
@@ -371,6 +399,7 @@ module.exports = {
       email: "richard.welch@example.com",
       twitter: "richardwelch",
       skype: "richardwelch",
+      lastOnline: "2 hours ago",
       connections: 835,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-29.png",
       place: "New York, US",
@@ -384,6 +413,7 @@ module.exports = {
       email: "christopher.abraham@example.com",
       twitter: "christopherabraham",
       skype: "christopherabraham",
+      lastOnline: "2 hours ago",
       connections: 1613,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-30.png",
       place: "São Paulo, Brazil",
@@ -494,7 +524,7 @@ module.exports = {
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-08.png",
       place: "London, United Kingdom",
       headline: "CPM-certified Product Manager",
-      summary: "I'm currently freelancing and I'm open to new opportunities starting January. Please feel free to get in touch with me on welove@resumeworded.com and we can explore how I can help."
+      summary: "I'm currently freelancing and I'm open to new opportunities starting January. Please feel free to get in touch with me on welove@example.com and we can explore how I can help."
     },
     {
       id: 9,
@@ -689,7 +719,7 @@ module.exports = {
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-23.png",
       place: "New York, US",
       headline: "Financial Analyst",
-      summary: "I'm currently freelancing and I'm open to new opportunities starting January. Please feel free to get in touch with me on welove@resumeworded.com and we can explore how I can help."
+      summary: "I'm currently freelancing and I'm open to new opportunities starting January. Please feel free to get in touch with me on welove@example.com and we can explore how I can help."
     },
     {
       id: 24,
@@ -2249,11 +2279,6 @@ module.exports = {
       company_id: 2
     },
     {
-      id: 23,
-      user_id: 29,
-      company_id: 6
-    },
-    {
       id: 24,
       user_id: 19,
       company_id: 11
@@ -2362,11 +2387,6 @@ module.exports = {
       id: 45,
       user_id: 22,
       company_id: 2
-    },
-    {
-      id: 46,
-      user_id: 29,
-      company_id: 6
     },
     {
       id: 47,
@@ -3556,6 +3576,180 @@ module.exports = {
       post_id: 12,
       body: "Inspiring",
       time: "2 weeks"
+    }
+  ],
+  chats: [
+    {
+      id: 1,
+      author_id: 1,
+      user_id: 30,
+      preview: 'All of these questions, properly',
+      interactions: [
+        {
+          id: 1,
+          from: 'target',
+          type: 'text',
+          content: 'We can already see the way in which the mobility of international capital is one of the consequences of corporate paradigms. We realize, more and more, that the adoption of decentralization policies plays an essential role in the formulation of development guidelines for the future.'
+        },
+        {
+          id: 2,
+          from: 'me',
+          type: 'text',
+          content: 'However, we must not forget that the current structure of the organization prepares us to face atypical situations arising from the levels of departmental motivation. The effort to analyze the new structural model advocated here assumes important positions in the establishment of the communication process as a whole.'
+        },
+        {
+          id: 3,
+          from: 'target',
+          type: 'text',
+          content: 'Daily practice proves that the continuous expansion of our activity entails a process of reformulation and modernization of the required financial and administrative conditions. Above all, it is essential to emphasize that the challenging globalized scenario encourages the standardization of new propositions. On the other hand, the consultation with the different militants requires us to analyze the preferential directions in the direction of progress.'
+        },
+        {
+          id: 4,
+          from: 'me',
+          type: 'text',
+          content: 'Likewise, the growing influence of the media challenges the ability to equalize alternatives to orthodox solutions. In this way, the hegemony of the political environment represents an opening for improving the innovative management of which we are a part.'
+        },
+        {
+          id: 5,
+          from: 'target',
+          type: 'text',
+          content: 'All of these questions, properly weighed, raise doubts about whether the need for procedural renewal hinders the appreciation of the importance of the flow of information.'
+        }
+      ]
+    },
+    {
+      id: 2,
+      author_id: 1,
+      user_id: 25,
+      preview: 'Evidently, the clear determination',
+      interactions: [
+        {
+          id: 1,
+          from: 'target',
+          type: 'text',
+          content: 'Thinking more in the long term, the constant dissemination of information has not yet convincingly demonstrated that it will participate in the change of the desired indexes. It is important to question how much competitiveness in commercial transactions can lead us to consider restructuring conventional modes of operation.'
+        },
+        {
+          id: 2,
+          from: 'me',
+          type: 'text',
+          content: 'I would like to emphasize that the emergence of virtual commerce promotes the leverage of the survey of the variables involved.'
+        },
+        {
+          id: 3,
+          from: 'target',
+          type: 'text',
+          content: 'But in today\'s world, the revolution in customs assists in the preparation and composition of the positions of the governing bodies in relation to their duties. The incentive for technological advancement, as well as the complexity of the studies carried out, allows a better global view of the different currents of thought.'
+        },
+        {
+          id: 4,
+          from: 'me',
+          type: 'text',
+          content: 'Evidently, the clear determination of objectives points to the improvement of vertical relationships between hierarchies. Therefore, the perception of difficulties is part of a process for managing the procedures normally adopted.'
+        }
+      ]
+    },
+    {
+      id: 3,
+      author_id: 1,
+      user_id: 20,
+      preview: 'The care in identifying critical',
+      interactions: [
+        {
+          id: 1,
+          from: 'me',
+          type: 'text',
+          content: 'The certification of methodologies that help us deal with the commitment between the teams offers an interesting opportunity to verify the impact on the decision agility.'
+        },
+        {
+          id: 2,
+          from: 'me',
+          type: 'text',
+          content: 'It is clear that the impartial judgment of eventualities has an indirect impact on the revaluation of investment in technical recycling.'
+        },
+        {
+          id: 3,
+          from: 'target',
+          type: 'text',
+          content: 'But the consensus on the need for qualification positively affects the correct forecast of strategic knowledge to achieve excellence.'
+        },
+        {
+          id: 4,
+          from: 'target',
+          type: 'text',
+          content: 'It is important to question how much the adoption of decentralizing policies may highlight the relativity of corporate paradigms. We realize, more and more, that the complexity of the studies carried out points to the improvement of vertical relationships between hierarchies.'
+        },
+        {
+          id: 5,
+          from: 'target',
+          type: 'text',
+          content: 'The care in identifying critical points in the continuous development of different forms of action requires precision and definition of new proposals.'
+        }
+      ]
+    },
+    {
+      id: 4,
+      author_id: 1,
+      user_id: 15,
+      preview: 'It is clear that the customs',
+      interactions: [
+        {
+          id: 1,
+          from: 'target',
+          type: 'text',
+          content: 'The impartial judgment of eventualities has an indirect impact on the evaluation of investment in technical recycling.'
+        },
+        {
+          id: 2,
+          from: 'target',
+          type: 'text',
+          content: 'The monitoring of consumption preferences guarantees the contribution of an important group in determining the sectoral budget. Nevertheless, the valuation of subjective factors can no longer be dissociated from the expected long-term return.'
+        },
+        {
+          id: 3,
+          from: 'me',
+          type: 'text',
+          content: 'But, the understanding of the proposed goals must undergo changes regardless of the normative rules of conduct.'
+        },
+        {
+          id: 4,
+          from: 'me',
+          type: 'text',
+          content: 'Hmmm.. I think the care in identifying critical points in the continuous development of different forms of action requires precision and definition of new proposals.'
+        },
+        {
+          id: 5,
+          from: 'target',
+          type: 'text',
+          content: 'It is clear that the customs revolution requires us to analyze the sectoral budget. Dear friend, the phenomenon of the Internet adds value to the establishment of forms of action.'
+        }
+      ]
+    },
+    {
+      id: 5,
+      author_id: 1,
+      user_id: 10,
+      preview: 'But the beginning of the general',
+      interactions: [
+        {
+          id: 1,
+          from: 'target',
+          type: 'text',
+          content: 'It is never too much to remember the weight and significance of these problems, since the expansion of world markets presents trends towards approving the maintenance of the communication process as a whole. What we have to keep in mind is that the increased dialogue between the different productive sectors allows a better global view of the required financial and administrative conditions.'
+        },
+        {
+          id: 2,
+          from: 'target',
+          type: 'text',
+          content: 'I would like to emphasize that the new structural model advocated here assumes important positions in the establishment of the relocation of functional staff.'
+        },
+        {
+          id: 3,
+          from: 'me',
+          type: 'text',
+          content: 'But the beginning of the general activity of forming attitudes can lead us to consider the restructuring of the positions of the governing parts in relation to their attributions.'
+        }
+      ]
     }
   ]
 }

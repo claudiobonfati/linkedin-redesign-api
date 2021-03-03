@@ -8,7 +8,7 @@ const app = express();
 
 // Enable cors
 var corsOptions = {
-  origin: 'http://localhost:3001',
+  origin: process.env.CORS_ORIGIN_URL,
   credentials: false
 };
 

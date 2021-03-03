@@ -2,6 +2,7 @@ module.exports = {
   users: [
     {
       id: 1,
+      pro: false,
       name: "Claudio Bonfati",
       username: "claudiobonfati",
       email: "claudio.bonfati@example.com",
@@ -12,10 +13,11 @@ module.exports = {
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-01.png",
       place: "São Paulo, Brazil",
       headline: "Software Engineer",
-      summary: "I am a full stack developer with a strong background knowledge in web development. Beign apart of the development of projects since the beginning until it takes a live of its own is one of the things I love the most.Javascript, Typescript, React, PHP, Angular 2, SQL, MySQL, GraphQL, Node, Express, MongoDB, Vue, Nuxt, (LESS, SASS, SCSS, CSS/CSS3), WordPress. "
+      summary: "I am a full stack developer focused in web development. Being apart of the development of projects since the beginning until its deployment is really a reward. I've worked with various technologies and languages, such as Javascript, Typescript, React, Next, PHP, Angular, SQL, NoSQL, MySQL, GraphQL, Node, Express, MongoDB, Vue, Nuxt, CSS/LESS/SASS, WordPress [...]."
     },
     {
       id: 2,
+      pro: false,
       name: "Grayce A. Joseph",
       username: "graycejoseph",
       email: "GrayceAJoseph@teleworm.us",
@@ -30,6 +32,7 @@ module.exports = {
     },
     {
       id: 3,
+      pro: false,
       name: "Lucas Paige",
       username: "lucaspaige",
       email: "lucas.paige@example.com",
@@ -44,6 +47,7 @@ module.exports = {
     },
     {
       id: 4,
+      pro: true,
       name: "Rebecca Terry",
       username: "rebeccaterry",
       email: "rebecca.terry@example.com",
@@ -58,6 +62,7 @@ module.exports = {
     },
     {
       id: 5,
+      pro: false,
       name: "Virginia Lyman",
       username: "virginialyman",
       email: "virginia.lyman@example.com",
@@ -72,6 +77,7 @@ module.exports = {
     },
     {
       id: 6,
+      pro: true,
       name: "Eric Butler",
       username: "ericbutler",
       email: "eric.butler@example.com",
@@ -86,6 +92,7 @@ module.exports = {
     },
     {
       id: 7,
+      pro: false,
       name: "Samantha Howard",
       username: "samanthahoward",
       email: "samantha.howard@example.com",
@@ -100,6 +107,7 @@ module.exports = {
     },
     {
       id: 8,
+      pro: false,
       name: "John McDonald",
       username: "johnmcdonald",
       email: "john.mcdonald@example.com",
@@ -114,6 +122,7 @@ module.exports = {
     },
     {
       id: 9,
+      pro: false,
       name: "Sebastian Morrison",
       username: "sebastianmorrison",
       email: "sebastian.morrison@example.com",
@@ -128,9 +137,10 @@ module.exports = {
     },
     {
       id: 10,
+      pro: false,
       name: "Bernadette Lyman",
       username: "bernadettelyman",
-      email: "bernadette.lyman@example.com",
+      email: "berna.lyman@example.com",
       twitter: "bernadettelyman",
       skype: "bernadettelyman",
       lastOnline: "2 days ago",
@@ -142,6 +152,7 @@ module.exports = {
     },
     {
       id: 11,
+      pro: false,
       name: "Eric Hughes",
       username: "erichughes",
       email: "eric.hughes@example.com",
@@ -156,6 +167,7 @@ module.exports = {
     },
     {
       id: 12,
+      pro: false,
       name: "Elizabeth Paterson",
       username: "elizabethpaterson",
       email: "elizabeth.paterson@example.com",
@@ -170,6 +182,7 @@ module.exports = {
     },
     {
       id: 13,
+      pro: true,
       name: "Anthony Morgan",
       username: "anthonymorgan",
       email: "anthony.morgan@example.com",
@@ -184,6 +197,7 @@ module.exports = {
     },
     {
       id: 14,
+      pro: true,
       name: "Alan Cornish",
       username: "alancornish",
       email: "alan.cornish@example.com",
@@ -198,6 +212,7 @@ module.exports = {
     },
     {
       id: 15,
+      pro: false,
       name: "Jason Rutherford",
       username: "jasonrutherford",
       email: "jason.rutherford@example.com",
@@ -212,6 +227,7 @@ module.exports = {
     },
     {
       id: 16,
+      pro: false,
       name: "Sophie Sharp",
       username: "sophiesharp",
       email: "sophie.sharp@example.com",
@@ -226,6 +242,7 @@ module.exports = {
     },
     {
       id: 17,
+      pro: false,
       name: "Austin Avery",
       username: "austinavery",
       email: "austin.avery@example.com",
@@ -240,6 +257,7 @@ module.exports = {
     },
     {
       id: 18,
+      pro: false,
       name: "Audrey Butler",
       username: "audreybutler",
       email: "audrey.butler@example.com",
@@ -254,6 +272,7 @@ module.exports = {
     },
     {
       id: 19,
+      pro: false,
       name: "Phil Avery",
       username: "philavery",
       email: "phil.avery@example.com",
@@ -268,6 +287,7 @@ module.exports = {
     },
     {
       id: 20,
+      pro: false,
       name: "Bernadette Sharp",
       username: "bernadettesharp",
       email: "bernadette.sharp@example.com",
@@ -282,6 +302,7 @@ module.exports = {
     },
     {
       id: 21,
+      pro: false,
       name: "Luke Ball",
       username: "lukeball",
       email: "luke.ball@example.com",
@@ -296,6 +317,7 @@ module.exports = {
     },
     {
       id: 22,
+      pro: true,
       name: "Rebecca Richards",
       username: "rebeccarichards",
       email: "rebecca.richards@example.com",
@@ -310,6 +332,7 @@ module.exports = {
     },
     {
       id: 23,
+      pro: false,
       name: "Lisa Coleman",
       username: "lisacoleman",
       email: "lisa.coleman@example.com",
@@ -324,6 +347,7 @@ module.exports = {
     },
     {
       id: 24,
+      pro: true,
       name: "Susan Johnson",
       username: "susanjohnson",
       email: "sasan.johnson@example.com",
@@ -338,6 +362,7 @@ module.exports = {
     },
     {
       id: 25,
+      pro: false,
       name: "Alison Watson",
       username: "alisonwatson",
       email: "alison.watson@example.com",
@@ -352,6 +377,7 @@ module.exports = {
     },
     {
       id: 26,
+      pro: false,
       name: "Margaret Miller",
       username: "margaretmiller",
       email: "margaret.miller@example.com",
@@ -366,6 +392,7 @@ module.exports = {
     },
     {
       id: 27,
+      pro: true,
       name: "Jessica Williams",
       username: "jessicawilliams",
       email: "jessica.willians@example.com",
@@ -380,6 +407,7 @@ module.exports = {
     },
     {
       id: 28,
+      pro: false,
       name: "Carol Smith",
       username: "carolsmith",
       email: "carol.smith@example.com",
@@ -394,6 +422,7 @@ module.exports = {
     },
     {
       id: 29,
+      pro: false,
       name: "Richard Welch",
       username: "richardwelch",
       email: "richard.welch@example.com",
@@ -408,6 +437,7 @@ module.exports = {
     },
     {
       id: 30,
+      pro: true,
       name: "Christopher Abraham",
       username: "christopherabraham",
       email: "christopher.abraham@example.com",
@@ -424,25 +454,29 @@ module.exports = {
   authors: [
     {
       id: 1,
+      pro: false,
       name: "Claudio Bonfati",
       username: "claudiobonfati",
       email: "claudio.bonfati@example.com",
       twitter: "claudioexample",
       skype: "claudioexample",
-      connections: 2022,
+      lastOnline: "2 hours ago",
+      connections: 1808,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-01.png",
       place: "São Paulo, Brazil",
       headline: "Software Engineer",
-      summary: "I am a full stack developer with a strong background knowledge in web development. Beign apart of the development of projects since the beginning until it takes a live of its own is one of the things I love the most.<br/><br/>Javascript, Typescript, React, PHP, Angular 2, SQL, MySQL, GraphQL, Node, Express, MongoDB, Vue, Nuxt, (LESS, SASS, SCSS, CSS/CSS3), WordPress. "
+      summary: "I am a full stack developer focused in web development. Being apart of the development of projects since the beginning until its deployment is really a reward. I've worked with various technologies and languages, such as Javascript, Typescript, React, Next, PHP, Angular, SQL, NoSQL, MySQL, GraphQL, Node, Express, MongoDB, Vue, Nuxt, CSS/LESS/SASS, WordPress [...]."
     },
     {
       id: 2,
+      pro: false,
       name: "Grayce A. Joseph",
       username: "graycejoseph",
       email: "GrayceAJoseph@teleworm.us",
       twitter: "grayceajoseph",
       skype: "grayceajoseph",
-      connections: 1573,
+      lastOnline: "9 hours ago",
+      connections: 2078,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-02.png",
       place: "Washington, US",
       headline: "Salesforce",
@@ -450,12 +484,14 @@ module.exports = {
     },
     {
       id: 3,
+      pro: false,
       name: "Lucas Paige",
       username: "lucaspaige",
       email: "lucas.paige@example.com",
       twitter: "lucaspaige",
       skype: "lucaspaige",
-      connections: 2775,
+      lastOnline: "2 days ago",
+      connections: 2241,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-03.png",
       place: "São Paulo, Brazil",
       headline: "Full Stack Engineer",
@@ -463,12 +499,14 @@ module.exports = {
     },
     {
       id: 4,
+      pro: true,
       name: "Rebecca Terry",
       username: "rebeccaterry",
       email: "rebecca.terry@example.com",
       twitter: "rebeccaterry",
       skype: "rebeccaterry",
-      connections: 2701,
+      lastOnline: "5 days ago",
+      connections: 2278,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-04.png",
       place: "London, United Kingdom",
       headline: "Certified HR Trainer",
@@ -476,12 +514,14 @@ module.exports = {
     },
     {
       id: 5,
+      pro: false,
       name: "Virginia Lyman",
       username: "virginialyman",
       email: "virginia.lyman@example.com",
       twitter: "virginialyman",
       skype: "virginialyman",
-      connections: 813,
+      lastOnline: "2 weeks ago",
+      connections: 2166,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-05.png",
       place: "São Paulo, Brazil",
       headline: "Social Media Manager",
@@ -489,12 +529,14 @@ module.exports = {
     },
     {
       id: 6,
+      pro: true,
       name: "Eric Butler",
       username: "ericbutler",
       email: "eric.butler@example.com",
       twitter: "ericbutler",
       skype: "ericbutler",
-      connections: 2116,
+      lastOnline: "6 days ago",
+      connections: 1035,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-06.png",
       place: "Washington, US",
       headline: "Content Marketing Strategist",
@@ -502,12 +544,14 @@ module.exports = {
     },
     {
       id: 7,
+      pro: false,
       name: "Samantha Howard",
       username: "samanthahoward",
       email: "samantha.howard@example.com",
       twitter: "samanthahoward",
       skype: "samanthahoward",
-      connections: 2456,
+      lastOnline: "5 days ago",
+      connections: 1088,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-07.png",
       place: "Paris, France",
       headline: "VP, Brand Management",
@@ -515,11 +559,13 @@ module.exports = {
     },
     {
       id: 8,
+      pro: false,
       name: "John McDonald",
       username: "johnmcdonald",
       email: "john.mcdonald@example.com",
       twitter: "johnmcdonald",
       skype: "johnmcdonald",
+      lastOnline: "4 days ago",
       connections: 2012,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-08.png",
       place: "London, United Kingdom",
@@ -528,12 +574,14 @@ module.exports = {
     },
     {
       id: 9,
+      pro: false,
       name: "Sebastian Morrison",
       username: "sebastianmorrison",
       email: "sebastian.morrison@example.com",
       twitter: "sebastianmorrison",
       skype: "sebastianmorrison",
-      connections: 1716,
+      lastOnline: "3 days ago",
+      connections: 2987,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-09.png",
       place: "Montreal, Canada",
       headline: "Marketing Manager",
@@ -541,12 +589,14 @@ module.exports = {
     },
     {
       id: 10,
+      pro: false,
       name: "Bernadette Lyman",
       username: "bernadettelyman",
-      email: "bernadette.lyman@example.com",
+      email: "berna.lyman@example.com",
       twitter: "bernadettelyman",
       skype: "bernadettelyman",
-      connections: 1590,
+      lastOnline: "2 days ago",
+      connections: 1526,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-10.png",
       place: "Paris, France",
       headline: "HR Director",
@@ -554,12 +604,14 @@ module.exports = {
     },
     {
       id: 11,
+      pro: false,
       name: "Eric Hughes",
       username: "erichughes",
       email: "eric.hughes@example.com",
       twitter: "erichughes",
       skype: "erichughes",
-      connections: 1348,
+      lastOnline: "yesterday",
+      connections: 2202,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-11.png",
       place: "Washington, US",
       headline: "Content Marketing Strategist",
@@ -567,12 +619,14 @@ module.exports = {
     },
     {
       id: 12,
+      pro: false,
       name: "Elizabeth Paterson",
       username: "elizabethpaterson",
       email: "elizabeth.paterson@example.com",
       twitter: "elizabethpaterson",
       skype: "elizabethpaterson",
-      connections: 1511,
+      lastOnline: "yesterday",
+      connections: 2349,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-12.png",
       place: "London, United Kingdom",
       headline: "Administrative Assistant",
@@ -580,12 +634,14 @@ module.exports = {
     },
     {
       id: 13,
+      pro: true,
       name: "Anthony Morgan",
       username: "anthonymorgan",
       email: "anthony.morgan@example.com",
       twitter: "anthonymorgan",
       skype: "anthonymorgan",
-      connections: 1837,
+      lastOnline: "yesterday",
+      connections: 1274,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-13.png",
       place: "New York, US",
       headline: "Executive Assistant",
@@ -593,12 +649,14 @@ module.exports = {
     },
     {
       id: 14,
+      pro: true,
       name: "Alan Cornish",
       username: "alancornish",
       email: "alan.cornish@example.com",
       twitter: "alancornish",
       skype: "alancornish",
-      connections: 2437,
+      lastOnline: "yesterday",
+      connections: 1904,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-14.png",
       place: "Montreal, Canada",
       headline: "Marketing Manager",
@@ -606,12 +664,14 @@ module.exports = {
     },
     {
       id: 15,
+      pro: false,
       name: "Jason Rutherford",
       username: "jasonrutherford",
       email: "jason.rutherford@example.com",
       twitter: "jasonrutherford",
       skype: "jasonrutherford",
-      connections: 1785,
+      lastOnline: "2 weeks ago",
+      connections: 1391,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-15.png",
       place: "São Paulo, Brazil",
       headline: "Customer Service Representative",
@@ -619,12 +679,14 @@ module.exports = {
     },
     {
       id: 16,
+      pro: false,
       name: "Sophie Sharp",
       username: "sophiesharp",
       email: "sophie.sharp@example.com",
       twitter: "sophiesharp",
       skype: "sophiesharp",
-      connections: 1771,
+      lastOnline: "6 days ago",
+      connections: 2217,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-16.png",
       place: "London, United Kingdom",
       headline: "Nurse Practitioner",
@@ -632,12 +694,14 @@ module.exports = {
     },
     {
       id: 17,
+      pro: false,
       name: "Austin Avery",
       username: "austinavery",
       email: "austin.avery@example.com",
       twitter: "austinavery",
       skype: "austinavery",
-      connections: 985,
+      lastOnline: "6 days ago",
+      connections: 950,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-17.png",
       place: "Paris, France",
       headline: "Software Engineer",
@@ -645,12 +709,14 @@ module.exports = {
     },
     {
       id: 18,
+      pro: false,
       name: "Audrey Butler",
       username: "audreybutler",
       email: "audrey.butler@example.com",
       twitter: "audreybutler",
       skype: "audreybutler",
-      connections: 2438,
+      lastOnline: "yesterday",
+      connections: 2674,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-18.png",
       place: "Washington, US",
       headline: "Sales Manager",
@@ -658,12 +724,14 @@ module.exports = {
     },
     {
       id: 19,
+      pro: false,
       name: "Phil Avery",
       username: "philavery",
       email: "phil.avery@example.com",
       twitter: "philavery",
       skype: "philavery",
-      connections: 1096,
+      lastOnline: "yesterday",
+      connections: 1527,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-19.png",
       place: "New York, US",
       headline: "Data Entry Clerk",
@@ -671,12 +739,14 @@ module.exports = {
     },
     {
       id: 20,
+      pro: false,
       name: "Bernadette Sharp",
       username: "bernadettesharp",
       email: "bernadette.sharp@example.com",
       twitter: "bernadettesharp",
       skype: "bernadettesharp",
-      connections: 2634,
+      lastOnline: "yesterday",
+      connections: 2087,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-20.png",
       place: "London, United Kingdom",
       headline: "Office Assistant",
@@ -684,12 +754,14 @@ module.exports = {
     },
     {
       id: 21,
+      pro: false,
       name: "Luke Ball",
       username: "lukeball",
       email: "luke.ball@example.com",
       twitter: "lukeball",
       skype: "lukeball",
-      connections: 1130,
+      lastOnline: "yesterday",
+      connections: 2318,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-21.png",
       place: "Montreal, Canada",
       headline: "CEO, Producer",
@@ -697,12 +769,14 @@ module.exports = {
     },
     {
       id: 22,
+      pro: true,
       name: "Rebecca Richards",
       username: "rebeccarichards",
       email: "rebecca.richards@example.com",
       twitter: "rebeccarichards",
       skype: "rebeccarichards",
-      connections: 2921,
+      lastOnline: "3 hours ago",
+      connections: 1696,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-22.png",
       place: "São Paulo, Brazil",
       headline: "Inovator",
@@ -710,12 +784,14 @@ module.exports = {
     },
     {
       id: 23,
+      pro: false,
       name: "Lisa Coleman",
       username: "lisacoleman",
       email: "lisa.coleman@example.com",
       twitter: "lisacoleman",
       skype: "lisacoleman",
-      connections: 1772,
+      lastOnline: "3 hours ago",
+      connections: 2461,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-23.png",
       place: "New York, US",
       headline: "Financial Analyst",
@@ -723,12 +799,14 @@ module.exports = {
     },
     {
       id: 24,
+      pro: true,
       name: "Susan Johnson",
       username: "susanjohnson",
       email: "sasan.johnson@example.com",
       twitter: "sasanjohnson",
       skype: "sasanjohnson",
-      connections: 2444,
+      lastOnline: "3 hours ago",
+      connections: 2150,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-24.png",
       place: "Washington, US",
       headline: "Director of HR",
@@ -736,12 +814,14 @@ module.exports = {
     },
     {
       id: 25,
+      pro: false,
       name: "Alison Watson",
       username: "alisonwatson",
       email: "alison.watson@example.com",
       twitter: "alisonwatson",
       skype: "alisonwatson",
-      connections: 2565,
+      lastOnline: "3 hours ago",
+      connections: 1611,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-25.png",
       place: "New York, US",
       headline: "Trusted Advisor",
@@ -749,12 +829,14 @@ module.exports = {
     },
     {
       id: 26,
+      pro: false,
       name: "Margaret Miller",
       username: "margaretmiller",
       email: "margaret.miller@example.com",
       twitter: "margaretmiller",
       skype: "margaretmiller",
-      connections: 1649,
+      lastOnline: "2 hours ago",
+      connections: 2536,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-26.png",
       place: "New York, US",
       headline: "Brand Management",
@@ -762,12 +844,14 @@ module.exports = {
     },
     {
       id: 27,
+      pro: true,
       name: "Jessica Williams",
       username: "jessicawilliams",
       email: "jessica.willians@example.com",
       twitter: "jessicawillians",
       skype: "jessicawillians",
-      connections: 2253,
+      lastOnline: "2 hours ago",
+      connections: 1859,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-27.png",
       place: "Montreal, Canada",
       headline: "Sales Development",
@@ -775,12 +859,14 @@ module.exports = {
     },
     {
       id: 28,
+      pro: false,
       name: "Carol Smith",
       username: "carolsmith",
       email: "carol.smith@example.com",
       twitter: "carolsmith",
       skype: "carolsmith",
-      connections: 1935,
+      lastOnline: "2 hours ago",
+      connections: 1973,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-28.png",
       place: "Paris, France",
       headline: "Social Media Manager",
@@ -788,12 +874,14 @@ module.exports = {
     },
     {
       id: 29,
+      pro: false,
       name: "Richard Welch",
       username: "richardwelch",
       email: "richard.welch@example.com",
       twitter: "richardwelch",
       skype: "richardwelch",
-      connections: 1858,
+      lastOnline: "2 hours ago",
+      connections: 835,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-29.png",
       place: "New York, US",
       headline: "Trusted Advisor",
@@ -801,12 +889,14 @@ module.exports = {
     },
     {
       id: 30,
+      pro: true,
       name: "Christopher Abraham",
       username: "christopherabraham",
       email: "christopher.abraham@example.com",
       twitter: "christopherabraham",
       skype: "christopherabraham",
-      connections: 2314,
+      lastOnline: "2 hours ago",
+      connections: 1613,
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-30.png",
       place: "São Paulo, Brazil",
       headline: "Certified HR Trainer",
@@ -820,7 +910,7 @@ module.exports = {
       nameslug: "amazon",
       website: "https://www.amazon.com/",
       industry: "Internet",
-      headquartes: "Seattle, WA",
+      headquarters: "Seattle, WA",
       founded: 1994,
       mission: "Come build the future with us.",
       followers: 17696588,
@@ -835,7 +925,7 @@ module.exports = {
       nameslug: "apple",
       website: "https://www.apple.com/",
       industry: "Technology",
-      headquartes: "California",
+      headquarters: "California",
       founded: 1976,
       followers: 13009935,
       employees: 221321,
@@ -849,7 +939,7 @@ module.exports = {
       nameslug: "google",
       website: "https://careers.google.com/",
       industry: "Internet",
-      headquartes: "Mountain View, CA",
+      headquarters: "Mountain View, CA",
       founded: 1998,
       followers: 20061808,
       employees: 222810,
@@ -863,7 +953,7 @@ module.exports = {
       nameslug: "tesla",
       website: "https://www.tesla.com/",
       industry: "Technology",
-      headquartes: "Palo Alto, CA",
+      headquarters: "Palo Alto, CA",
       founded: 2003,
       mission: "Tesla’s mission is to accelerate the world’s transition to sustainable energy.",
       followers: 9299408,
@@ -878,7 +968,7 @@ module.exports = {
       nameslug: "microsoft",
       website: "https://www.microsoft.com/",
       industry: "Software",
-      headquartes: "Redmond, Washington",
+      headquarters: "Redmond, Washington",
       founded: 1975,
       mission: "We’re on a mission to empower every person and every organization on the planet to achieve more.",
       followers: 13252377,
@@ -893,7 +983,7 @@ module.exports = {
       nameslug: "ibm",
       website: "https://www.ibm.com/",
       industry: "Technology",
-      headquartes: "New York, NY",
+      headquarters: "New York, NY",
       founded: 1911,
       followers: 9651237,
       employees: 514554,
@@ -907,7 +997,7 @@ module.exports = {
       nameslug: "red-hat",
       website: "https://www.redhat.com/",
       industry: "Software",
-      headquartes: "Raleigh, NC",
+      headquarters: "Raleigh, NC",
       founded: 1993,
       mission: "The leading provider of enterprise open source solutions.",
       followers: 849191,
@@ -922,7 +1012,7 @@ module.exports = {
       nameslug: "spacex",
       website: "https://www.spacex.com/",
       industry: "Aerospace",
-      headquartes: "Hawthorne, California",
+      headquarters: "Hawthorne, California",
       founded: 2002,
       mission: "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft.",
       followers: 1679471,
@@ -937,7 +1027,7 @@ module.exports = {
       nameslug: "nasa",
       website: "https://www.nasa.gov/",
       industry: "Aerospace",
-      headquartes: "Washington, DC",
+      headquarters: "Washington, DC",
       founded: 1958,
       mission: "Explore the universe and discover our home planet with the official NASA page on LinkedIn.",
       followers: 5111239,
@@ -952,7 +1042,7 @@ module.exports = {
       nameslug: "harvard-university",
       website: "https://www.harvard.edu/",
       industry: "Education",
-      headquartes: "Cambridge, Massachusetts",
+      headquarters: "Cambridge, Massachusetts",
       founded: 1636,
       mission: "Harvard University is devoted to excellence in teaching, learning, and research, and to developing leaders in many disciplines who make a difference globally.",
       followers: 1516118,
@@ -967,7 +1057,7 @@ module.exports = {
       nameslug: "university-of-cambridge",
       website: "https://www.cam.ac.uk/",
       industry: "Education",
-      headquartes: "Cambridge, England",
+      headquarters: "Cambridge, England",
       founded: 1209,
       mission: "We contribute to society through education, learning and research at the highest international levels of excellence.",
       followers: 621207,
@@ -982,7 +1072,7 @@ module.exports = {
       nameslug: "columbia-university",
       website: "https://www.columbia.edu/",
       industry: "Education",
-      headquartes: "New York, NY",
+      headquarters: "New York, NY",
       founded: 1754,
       mission: "The official LinkedIn home of Columbia University.",
       followers: 225105,
@@ -997,7 +1087,7 @@ module.exports = {
       nameslug: "university-of-oxford",
       website: "https://www.ox.ac.uk/",
       industry: "Education",
-      headquartes: "Oxford, Oxfordshire",
+      headquarters: "Oxford, Oxfordshire",
       founded: 1326,
       followers: 597278,
       employees: 14331,
@@ -1011,7 +1101,7 @@ module.exports = {
       nameslug: "yale-university",
       website: "https://www.yale.edu/",
       industry: "Education",
-      headquartes: "New Haven, ct",
+      headquarters: "New Haven, ct",
       founded: 1701,
       mission: "For more than 300 years, Yale University has inspired the minds that inspire the world.",
       followers: 279712,
@@ -2241,7 +2331,7 @@ module.exports = {
     {
       id: 15,
       user_id: 21,
-      company_id: 3
+      company_id: 4
     },
     {
       id: 16,
@@ -2311,7 +2401,7 @@ module.exports = {
     {
       id: 30,
       user_id: 9,
-      company_id: 4
+      company_id: 6
     },
     {
       id: 31,
@@ -2431,7 +2521,7 @@ module.exports = {
     {
       id: 55,
       user_id: 17,
-      company_id: 3
+      company_id: 4
     },
     {
       id: 56,
@@ -2669,21 +2759,21 @@ module.exports = {
       id:8,
       user_id:2,
       company_id:null,
-      body:"You got a dream, you gotta protect it. You want something, go get it. Period.",
-      image:null,
+      body:"If you got a dream, you gotta protect it. You want something, go get it. Period.",
+      image:"https://images.unsplash.com/photo-1525876183281-0d0d9308010d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
       video:null,
       likes:4521,
       time:"1 week"
     },
     {
       id:9,
-      user_id:27,
+      user_id:24,
       company_id:null,
-      body:"Having a great relationship with your customers can lead to more referrals.",
-      image:"https://images.unsplash.com/photo-1557804506-669a67965ba0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80",
+      body:"Best advice you were ever given that you’re so glad you ignored❓❓❓ Go! 👇🏻",
+      image:null,
       video:null,
-      likes:164,
-      time:"2 hours"
+      likes:63,
+      time:"1 week"
     },
     {
       id:10,
@@ -2738,12 +2828,12 @@ module.exports = {
     {
       id:15,
       user_id:null,
-      company_id:2,
-      body:"MacBook Air and MacBook Pro 13\", now supercharged by the Apple M1 chip. Powering the work you need to do from anywhere.<br/><br/>Credits for the video: <a href='https://www.purelifestyle.be/' target='_blank'>purelifestyle.be</a>",
-      image:null,
-      video:298542617,
-      likes:12451,
-      time:"2 days"
+      company_id:10,
+      body:"The Harvard Medal recognizes extraordinary service to the University in a variety of areas, such as teaching, fundraising, leadership, and innovation.",
+      image:"https://linkedinconcept.s3.amazonaws.com/165485795466458.jpg",
+      video:null,
+      likes:122,
+      time:"1 week"
     },
     {
       id:16,
@@ -2758,12 +2848,12 @@ module.exports = {
     {
       id:17,
       user_id:null,
-      company_id:10,
-      body:"The Harvard Medal recognizes extraordinary service to the University in a variety of areas, such as teaching, fundraising, leadership, and innovation.",
-      image:"https://linkedinconcept.s3.amazonaws.com/165485795466458.jpg",
-      video:null,
-      likes:122,
-      time:"1 week"
+      company_id:2,
+      body:"MacBook Air and MacBook Pro 13\", now supercharged by the Apple M1 chip. Powering the work you need to do from anywhere.<br/><br/>Credits for the video: <a href='https://www.purelifestyle.be/' target='_blank'>purelifestyle.be</a>",
+      image:null,
+      video:298542617,
+      likes:12451,
+      time:"2 days"
     },
     {
       id:18,
@@ -2866,14 +2956,14 @@ module.exports = {
       time:"2 hours"
     },
     {
-      id:28,
-      user_id:24,
+      id:90,
+      user_id:27,
       company_id:null,
-      body:"Best advice you were ever given that you’re so glad you ignored❓❓❓<br/>Go! 👇🏻",
-      image:null,
+      body:"Having a great relationship with your customers can lead to more referrals.",
+      image:"https://images.unsplash.com/photo-1557804506-669a67965ba0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80",
       video:null,
-      likes:33,
-      time:"1 week"
+      likes:164,
+      time:"2 hours"
     },
     {
       id:29,
@@ -3199,11 +3289,11 @@ module.exports = {
       id:66,
       user_id:1,
       company_id:null,
-      body:"I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
+      body:"\"I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.\"",
       image:"https://images.unsplash.com/photo-1590102425280-87796d4a442c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
       video:null,
       likes:302,
-      time:"9 min"
+      time:"15 min"
     },
   ],
   articles: [
@@ -3321,7 +3411,7 @@ module.exports = {
     {
       id: 7,
       user_id: 11,
-      post_id: 28,
+      post_id: 24,
       body: "You attract what you are (not what you want). If you want something great, then be great.",
       time: "54 min"
     },
@@ -3363,35 +3453,35 @@ module.exports = {
     {
       id: 13,
       user_id: 22,
-      post_id: 28,
+      post_id: 9,
       body: "When I was 21, I dropped out of college to run a cutting tool distributor company. I thought, if I’m going to run it, I should own some of it and went into debt to buy in. \nMy parents thought I was crazy and told me to go back to school. \nOwning part of that company was the best education money could buy. It got me to where I am today, no regrets",
       time: "25 min"
     },
     {
       id: 14,
       user_id: 5,
-      post_id: 28,
+      post_id: 9,
       body: "Advice from the VP of a previous job: \"In sales, you have to be able to sell things to people and KNOW they don't need it and be able to sleep at night.\" I have been extremely successful in my sales career as the \"nice and helpful\" person they told me so much not to be. ",
       time: "47 min"
     },
     {
       id: 15,
       user_id: 4,
-      post_id: 28,
+      post_id: 9,
       body: "“Maybe someday you’ll outgrow punk rock.” Not sure if it’s advice but I definitely ignored it. 🤘😜",
       time: "56 min"
     },
     {
       id: 16,
       user_id: 19,
-      post_id: 28,
+      post_id: 9,
       body: "You don't have a detailed enough plan to start your own business.",
       time: "11 min"
     },
     {
       id: 17,
       user_id: 26,
-      post_id: 28,
+      post_id: 9,
       body: "Don't be a whistleblower, everyone will hate you... Technically, that was true. Technically, I'm also not sure I'm glad I ignored it.",
       time: "41 min"
     },
@@ -3419,7 +3509,7 @@ module.exports = {
     {
       id: 21,
       user_id: 26,
-      post_id: 28,
+      post_id: 20,
       body: "I have been following you all year and you have helped me more than you know!",
       time: "19 min"
     },
@@ -3543,13 +3633,6 @@ module.exports = {
       time: "2 days"
     },
     {
-      id: 39,
-      user_id: 29,
-      post_id: 12,
-      body: "This is very important, thanks for sharing with us such important content.",
-      time: "1 days"
-    },
-    {
       id: 40,
       user_id: 30,
       post_id: 6,
@@ -3559,9 +3642,9 @@ module.exports = {
     {
       id: 41,
       user_id: 8,
-      post_id: 3,
+      post_id: 30,
       body: "Thanks for sharing.",
-      time: "1 days"
+      time: "1 day"
     },
     {
       id: 42,
@@ -3576,7 +3659,70 @@ module.exports = {
       post_id: 12,
       body: "Inspiring",
       time: "2 weeks"
-    }
+    },
+    {
+      id: 44,
+      user_id: 28,
+      post_id: 65,
+      body: "That looks awesome. Congrats! 👏👏👏",
+      time: "2 weeks"
+    },
+    {
+      id: 45,
+      user_id: 24,
+      post_id: 64,
+      body: "There is some hard work going on here!",
+      time: "1 week"
+    },
+    {
+      id: 46,
+      user_id: 23,
+      post_id: 64,
+      body: "I would totally use the app 🤩🤩🤩, are you planning to launch it?",
+      time: "1 week"
+    },
+    {
+      id: 47,
+      user_id: 8,
+      post_id: 44,
+      body: "Wonderful words 👏👏👏👏👏",
+      time: "30 min"
+    },
+    {
+      id: 48,
+      user_id: 15,
+      post_id: 44,
+      body: "Not gonna lie, this scene made was amazing, kudos to the writter.",
+      time: "35 min"
+    },
+    {
+      id: 49,
+      user_id: 20,
+      post_id: 5,
+      body: "Vision, Courage, Integrity and Humility are the best qualities of good leaders.",
+      time: "35 min"
+    },
+    {
+      id: 50,
+      user_id: 23,
+      post_id: 22,
+      body: "There will always be someone that prefer criticise instead of advice. That's a sad truth.",
+      time: "1 day"
+    },
+    {
+      id: 51,
+      user_id: 21,
+      post_id: 61,
+      body: "... and smarter. 🤓",
+      time: "4 hours"
+    },
+    {
+      id: 52,
+      user_id: 25,
+      post_id: 39,
+      body: "This is also true with that phrase that advise you to stick with the problem, not the solution.",
+      time: "10 min"
+    },
   ],
   chats: [
     {
@@ -3584,6 +3730,7 @@ module.exports = {
       author_id: 1,
       user_id: 10,
       preview: 'All of these questions, properly',
+      unread: true,
       interactions: [
         {
           id: "0a3bhncs4",
@@ -3599,6 +3746,18 @@ module.exports = {
         },
         {
           id: "bgspthovy",
+          from: 'target',
+          type: 'text',
+          content: 'Daily practice proves that the continuous expansion of our activity entails a process of reformulation and modernization of the required financial and administrative conditions. Above all, it is essential to emphasize that the challenging globalized scenario encourages the standardization of new propositions. On the other hand, the consultation with the different militants requires us to analyze the preferential directions in the direction of progress.'
+        },
+        {
+          id: "ahcgcwwm4",
+          from: 'me',
+          type: 'text',
+          content: 'However, we must not forget that the current structure of the organization prepares us to face atypical situations arising from the levels of departmental motivation. The effort to analyze the new structural model advocated here assumes important positions in the establishment of the communication process as a whole.'
+        },
+        {
+          id: "bgspthov4",
           from: 'target',
           type: 'text',
           content: 'Daily practice proves that the continuous expansion of our activity entails a process of reformulation and modernization of the required financial and administrative conditions. Above all, it is essential to emphasize that the challenging globalized scenario encourages the standardization of new propositions. On the other hand, the consultation with the different militants requires us to analyze the preferential directions in the direction of progress.'
@@ -3622,6 +3781,7 @@ module.exports = {
       author_id: 1,
       user_id: 11,
       preview: 'Evidently, the clear determination',
+      unread: false,
       interactions: [
         {
           id: "6cvcrdo4a",
@@ -3642,6 +3802,18 @@ module.exports = {
           content: 'But in today\'s world, the revolution in customs assists in the preparation and composition of the positions of the governing bodies in relation to their duties. The incentive for technological advancement, as well as the complexity of the studies carried out, allows a better global view of the different currents of thought.'
         },
         {
+          id: "31zs4vfbx5",
+          from: 'me',
+          type: 'text',
+          content: 'I would like to emphasize that the emergence of virtual commerce promotes the leverage of the survey of the variables involved.'
+        },
+        {
+          id: "5agmmjnph5",
+          from: 'target',
+          type: 'text',
+          content: 'But in today\'s world, the revolution in customs assists in the preparation and composition of the positions of the governing bodies in relation to their duties. The incentive for technological advancement, as well as the complexity of the studies carried out, allows a better global view of the different currents of thought.'
+        },
+        {
           id: "rf75t1fi2",
           from: 'me',
           type: 'text',
@@ -3654,6 +3826,7 @@ module.exports = {
       author_id: 1,
       user_id: 12,
       preview: 'The care in identifying critical',
+      unread: false,
       interactions: [
         {
           id: "5po3zsssp",
@@ -3666,6 +3839,18 @@ module.exports = {
           from: 'me',
           type: 'text',
           content: 'It is clear that the impartial judgment of eventualities has an indirect impact on the revaluation of investment in technical recycling.'
+        },
+        {
+          id: "dferp6oaf5",
+          from: 'target',
+          type: 'text',
+          content: 'It is important to question how much the adoption of decentralizing policies may highlight the relativity of corporate paradigms. We realize, more and more, that the complexity of the studies carried out points to the improvement of vertical relationships between hierarchies.'
+        },
+        {
+          id: "gi5ip6z15",
+          from: 'target',
+          type: 'text',
+          content: 'The care in identifying critical points in the continuous development of different forms of action requires precision and definition of new proposals.'
         },
         {
           id: "4qndnx150",
@@ -3692,6 +3877,7 @@ module.exports = {
       author_id: 1,
       user_id: 13,
       preview: 'It is clear that the customs',
+      unread: true,
       interactions: [
         {
           id: "ghfyizafi",
@@ -3718,6 +3904,18 @@ module.exports = {
           content: 'Hmmm.. I think the care in identifying critical points in the continuous development of different forms of action requires precision and definition of new proposals.'
         },
         {
+          id: "xslo2e625",
+          from: 'me',
+          type: 'text',
+          content: 'But, the understanding of the proposed goals must undergo changes regardless of the normative rules of conduct.'
+        },
+        {
+          id: "5lkce6565",
+          from: 'target',
+          type: 'text',
+          content: 'I think the care in identifying critical points in the continuous development of different forms of action requires precision and definition of new proposals.'
+        },
+        {
           id: "pfmpvqiuf",
           from: 'target',
           type: 'text',
@@ -3730,6 +3928,7 @@ module.exports = {
       author_id: 1,
       user_id: 14,
       preview: 'But the beginning of the general',
+      unread: false,
       interactions: [
         {
           id: "l1zn6ig8d",
@@ -3748,6 +3947,18 @@ module.exports = {
           from: 'me',
           type: 'text',
           content: 'But the beginning of the general activity of forming attitudes can lead us to consider the restructuring of the positions of the governing parts in relation to their attributions.'
+        },
+        {
+          id: "pmj70ej75",
+          from: 'target',
+          type: 'text',
+          content: 'I would like to emphasize that the new structural model advocated here assumes important positions in the establishment of the relocation of functional staff.'
+        },
+        {
+          id: "fj2a25925",
+          from: 'me',
+          type: 'text',
+          content: 'But the beginning of the general activity of forming attitudes can lead us to consider the restructuring of the positions of the governing parts in relation to their attributions.'
         }
       ]
     },
@@ -3756,6 +3967,7 @@ module.exports = {
       author_id: 1,
       user_id: 15,
       preview: 'Nevertheless, the valuation of subjective',
+      unread: true,
       interactions: [
         {
           id: "wn2jwp25e",
@@ -3782,6 +3994,18 @@ module.exports = {
           content: 'I would like to emphasize that the new structural model advocated here assumes important positions in the establishment of the relocation of functional staff.'
         },
         {
+          id: "mbyefh4o5",
+          from: 'me',
+          type: 'text',
+          content: 'But the beginning of the general activity of forming attitudes can lead us to consider the restructuring of the positions of the governing parts in relation to their attributions.'
+        },
+        {
+          id: "58cjmywc5",
+          from: 'target',
+          type: 'text',
+          content: 'I would like to emphasize that the new structural model advocated here assumes important positions in the establishment of the relocation of functional staff.'
+        },
+        {
           id: "3itu472h8",
           from: 'target',
           type: 'text',
@@ -3794,6 +4018,7 @@ module.exports = {
       author_id: 1,
       user_id: 16,
       preview: 'But the beginning of the general',
+      unread: false,
       interactions: [
         {
           id: "be6yjpw5q",
@@ -3818,6 +4043,18 @@ module.exports = {
           from: 'me',
           type: 'text',
           content: 'But the beginning of the general activity of forming attitudes can lead us to consider the restructuring of the positions of the governing parts in relation to their attributions.'
+        },
+        {
+          id: "i1lcobyn6",
+          from: 'target',
+          type: 'text',
+          content: 'What we have to keep in mind is that the increased dialogue between the different productive sectors allows a better global view of the required financial and administrative conditions.'
+        },
+        {
+          id: "n4xnygp45",
+          from: 'target',
+          type: 'text',
+          content: 'I would like to emphasize that the new structural model advocated here assumes important positions in the establishment of the relocation of functional staff.'
         }
       ]
     },
@@ -3826,6 +4063,7 @@ module.exports = {
       author_id: 1,
       user_id: 17,
       preview: 'Even so, there are doubts about',
+      unread: false,
       interactions: [
         {
           id: "2jj4fmc06",
@@ -3846,6 +4084,7 @@ module.exports = {
       author_id: 1,
       user_id: 18,
       preview: 'The continuous development of different',
+      unread: true,
       interactions: [
         {
           id: "ha9nz9tbq",
@@ -3860,6 +4099,7 @@ module.exports = {
       author_id: 1,
       user_id: 19,
       preview: 'We realize, more and more, that',
+      unread: false,
       interactions: [
         {
           id: "q0wshxv3a",
@@ -3880,6 +4120,103 @@ module.exports = {
           content: 'We realize, more and more, that the impartial judgment of eventualities points to an improvement in investment in technical recycling.'
         }
       ]
+    }
+  ],
+  notifications: [
+    {
+      id: 1,
+      user_id: 5,
+      message: 'published an update: For every reason...',
+      type: 'post',
+    },
+    {
+      id: 2,
+      user_id: 10,
+      message: 'is now a connection',
+      type: 'connection',
+    },
+    {
+      id: 3,
+      user_id: 15,
+      message: 'is now a connection',
+      type: 'connection',
+    },
+    {
+      id: 4,
+      user_id: 20,
+      message: 'is now a connection',
+      type: 'connection',
+    }
+  ],
+  viewers: [
+    {
+      id: 1,
+      user_id: 2,
+    },
+    {
+      id: 2,
+      user_id: 8,
+    },
+    {
+      id: 3,
+      user_id: 12,
+    },
+    {
+      id: 4,
+      user_id: 18,
+    },
+    {
+      id: 5,
+      user_id: 23,
+    }
+  ],
+  requests: [
+    {
+      id: 1,
+      user_id: 4,
+      message: 'Hi Claudio, I would like to connect...',
+    },
+    {
+      id: 2,
+      user_id: 9,
+      message: 'Whats to connect with you',
+    },
+    {
+      id: 3,
+      user_id: 16,
+      message: 'Hello Claudio, we\'ve meet last week at...',
+    },
+    {
+      id: 4,
+      user_id: 19,
+      message: 'Whats to connect with you',
+    },
+    {
+      id: 5,
+      user_id: 24,
+      message: 'Whats to connect with you',
+    }
+  ],
+  messages: [
+    {
+      id: 1,
+      user_id: 10,
+      message: 'All of these questions, properly...',
+    },
+    {
+      id: 2,
+      user_id: 13,
+      message: 'It is clear that the customs revolu...',
+    },
+    {
+      id: 3,
+      user_id: 15,
+      message: 'Nevertheless, the valuation of...',
+    },
+    {
+      id: 4,
+      user_id: 18,
+      message: 'The continuous development...',
     }
   ]
 }

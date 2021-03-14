@@ -13,7 +13,7 @@ module.exports = {
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-01.png",
       place: "São Paulo, Brazil",
       headline: "Software Engineer",
-      summary: "I am a full stack developer focused in web development. Being apart of the development of projects since the beginning until its deployment is really a reward. I've worked with various technologies and languages, such as Javascript, Typescript, React, Next, PHP, Angular, SQL, NoSQL, MySQL, GraphQL, Node, Express, MongoDB, Vue, Nuxt, CSS/LESS/SASS, WordPress [...]."
+      summary: "Software Engineer focused on web development. Creating cool stuff and being able to see a project that I worked on being released is one of the most satisfying feelings. <br/> <br/>I've had the opportunity to work with several technologies and languages, such as Javascript, Typescript, React, Next, PHP, WordPress, Angular, SQL, NoSQL, MySQL, GraphQL, CSS/LESS/SASS, Node, Express, MongoDB, Vue, Nuxt."
     },
     {
       id: 2,
@@ -465,7 +465,7 @@ module.exports = {
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-01.png",
       place: "São Paulo, Brazil",
       headline: "Software Engineer",
-      summary: "I am a full stack developer focused in web development. Being apart of the development of projects since the beginning until its deployment is really a reward. I've worked with various technologies and languages, such as Javascript, Typescript, React, Next, PHP, Angular, SQL, NoSQL, MySQL, GraphQL, Node, Express, MongoDB, Vue, Nuxt, CSS/LESS/SASS, WordPress [...]."
+      summary: "Software Engineer focused on web development. Creating cool stuff and being able to see a project that I worked on being released is one of the most satisfying feelings. <br/> <br/>I've had the opportunity to work with several technologies and languages, such as Javascript, Typescript, React, Next, PHP, WordPress, Angular, SQL, NoSQL, MySQL, GraphQL, CSS/LESS/SASS, Node, Express, MongoDB, Vue, Nuxt."
     },
     {
       id: 2,
@@ -1158,7 +1158,7 @@ module.exports = {
       company_id: 8,
       title: "Software Engineer",
       period: "March 2015 - January 2018",
-      description: "You created, maintained, audited and improved systems to meet particular needs, often as advised by a systems analyst or architect, testing both hard and software systems to diagnose and resolve system faults."
+      description: "I created, maintained, audited and improved systems to meet particular needs, often as advised by a systems analyst or architect, testing both hard and software systems to diagnose and resolve system faults."
     },
     {
       id: 7,
@@ -1294,7 +1294,7 @@ module.exports = {
       company_id: 7,
       title: "Software Engineer",
       period: "March 2018 - November 2020",
-      description: "You created, maintained, audited and improved systems to meet particular needs, often as advised by a systems analyst or architect, testing both hard and software systems to diagnose and resolve system faults."
+      description: "I created, maintained, audited and improved systems to meet particular needs, often as advised by a systems analyst or architect, testing both hard and software systems to diagnose and resolve system faults."
     },
     {
       id: 24,
@@ -1430,7 +1430,7 @@ module.exports = {
       company_id: 7,
       title: "Software Engineer",
       period: "March 2015 - January 2018",
-      description: "You created, maintained, audited and improved systems to meet particular needs, often as advised by a systems analyst or architect, testing both hard and software systems to diagnose and resolve system faults."
+      description: "I created, maintained, audited and improved systems to meet particular needs, often as advised by a systems analyst or architect, testing both hard and software systems to diagnose and resolve system faults."
     },
     {
       id: 41,
@@ -1566,7 +1566,7 @@ module.exports = {
       company_id: 14,
       title: "Software Engineer",
       period: "March 2014 - January 2017",
-      description: "You created, maintained, audited and improved systems to meet particular needs, often as advised by a systems analyst or architect, testing both hard and software systems to diagnose and resolve system faults."
+      description: "I created, maintained, audited and improved systems to meet particular needs, often as advised by a systems analyst or architect, testing both hard and software systems to diagnose and resolve system faults."
     },
     {
       id: 58,
@@ -1590,7 +1590,7 @@ module.exports = {
       company_id: 7,
       title: "Software Engineer",
       period: "March 2018 - November 2020",
-      description: "You created, maintained, audited and improved systems to meet particular needs, often as advised by a systems analyst or architect, testing both hard and software systems to diagnose and resolve system faults."
+      description: "I created, maintained, audited and improved systems to meet particular needs, often as advised by a systems analyst or architect, testing both hard and software systems to diagnose and resolve system faults."
     },
     {
       id: 61,
@@ -1598,7 +1598,7 @@ module.exports = {
       company_id: 8,
       title: "Software Engineer",
       period: "March 2015 - January 2018",
-      description: "You created, maintained, audited and improved systems to meet particular needs, often as advised by a systems analyst or architect, testing both hard and software systems to diagnose and resolve system faults."
+      description: "Design and write new software programs and computer operating systems. Develop existing programs by analysing and identifying areas for modification."
     }
   ],
   courses: [
@@ -2134,7 +2134,7 @@ module.exports = {
       id: 18,
       user_id: 1,
       author_id: 29,
-      description: "I could recommend Claudio as a person with profound knowledge and great abilities of advanced business solutions."
+      description: "I could recommend Claudio as a person with profound knowledge and great abilities of advanced web development."
     },
     {
       id: 19,
@@ -2200,7 +2200,7 @@ module.exports = {
       id: 29,
       user_id: 1,
       author_id: 10,
-      description: "His leadership and organizational skills have been invaluable to the company. "
+      description: "His leadership and organizational skills have been invaluable to the company. I'm glad I had the opportunity to work with him."
     },
     {
       id: 30,
@@ -2247,8 +2247,8 @@ module.exports = {
     {
       id: 37,
       user_id: 1,
-      author_id: 8,
-      description: "Proactive, ambitious, committed and broad-minded perfectionist. Excellent and result driven. Works towards maximal customer satisfaction."
+      author_id: 9,
+      description: "Proactive, ambitious, committed and broad-minded perfectionist. He was a valuable member of the team."
     },
     {
       id: 38,
@@ -3112,7 +3112,7 @@ module.exports = {
       body:"Tesla Model S is now the first ever electric vehicle to receive an EPA range rating above 400 miles. <a href='https://lnkd.in/gEgg4e9' target='_blank'>https://lnkd.in/gEgg4e9</a>",
       image:"https://linkedinconcept.s3.amazonaws.com/165484587665465.jpg",
       video:null,
-      likes:46584,
+      likes:6584,
       time:"6 weeks"
     },
     {
@@ -3129,7 +3129,7 @@ module.exports = {
       id:48,
       user_id:null,
       company_id:3,
-      body:"🔦Job Spotlight🔦 Technical Recruitment in Hyderabad and Bengaluru. As a Technical Recruiter or Lead you’ll play an essential role in the scale and growth of Google Cloud and help advance a more diverse, accessible, equitable and inclusive Google. Interested? Learn more and apply → <a href='https://goo.gle/33vrCEM' target='_blank'>https://goo.gle/33vrCEM</a>",
+      body:"🔦 Job Spotlight 🔦 Technical Recruitment in Hyderabad and Bengaluru. As a Technical Recruiter or Lead you’ll play an essential role in the scale and growth of Google Cloud and help advance a more diverse, accessible, equitable and inclusive Google. Interested? Learn more and apply → <a href='https://goo.gle/33vrCEM' target='_blank'>https://goo.gle/33vrCEM</a>",
       image:"https://linkedinconcept.s3.amazonaws.com/1606962403761.jpg",
       video:null,
       likes:985,
@@ -3149,7 +3149,7 @@ module.exports = {
       id:50,
       user_id:null,
       company_id:9,
-      body:"Dancing across the night sky, Jupiter and Saturn will make their showstopping move on Dec. 21 when they align to form what's known as the \"Great Conjunction.\" Here's how you can watch: <a href='https://lnkd.in/gHhyPB4' targte='_blank'>https://lnkd.in/gHhyPB4</a>",
+      body:"Dancing across the night sky, Jupiter and Saturn will make their showstopping move on Dec. 21 when they align to form what's known as the \"Great Conjunction.\" Here's how you can watch: <a href='https://lnkd.in/gHhyPB4' target='_blank'>https://lnkd.in/gHhyPB4</a>",
       image:"https://linkedinconcept.s3.amazonaws.com/1608080041418.jpeg",
       video:null,
       likes:18659,
@@ -3169,7 +3169,7 @@ module.exports = {
       id:65,
       user_id:1,
       company_id:null,
-      body:"Recently I've cloned the Netflix intro animation using only CSS and I got some great feedback about it, so I thought it would be a great idea to share a bit about the development process step-by-step. Anyway, here is the post link.<br/><br/>I hope you guys like it.<br/><br/><a href='https://bit.ly/3hYASas' target='_blank'>https://bit.ly/3hYASas</a>",
+      body:"Recently I've cloned the Netflix intro animation using only CSS and I got some great feedback about it, so I thought it would be a great idea to share a bit about the development process step-by-step. <br/><br/><a href='https://bit.ly/3hYASas' target='_blank'>https://bit.ly/3hYASas</a>",
       image:null,
       video:498671972,
       likes:125,
@@ -3404,8 +3404,8 @@ module.exports = {
     {
       id: 6,
       user_id: 11,
-      post_id: 40,
-      body: "What a brilliant charming piece of design.",
+      post_id: 64,
+      body: "What a charming piece of design.",
       time: "39 min"
     },
     {
@@ -3440,7 +3440,7 @@ module.exports = {
       id: 11,
       user_id: 28,
       post_id: 33,
-      body: "Commenting to keep more posts like this on my wall. Reply if you agree!",
+      body: "Commenting to keep more posts like this on my wall.",
       time: "10 min"
     },
     {
@@ -3535,13 +3535,6 @@ module.exports = {
       time: "39 min"
     },
     {
-      id: 25,
-      user_id: 11,
-      post_id: 35,
-      body: "Well done.",
-      time: "25 min"
-    },
-    {
       id: 26,
       user_id: 3,
       post_id: 62,
@@ -3608,7 +3601,7 @@ module.exports = {
       id: 35,
       user_id: 7,
       post_id: 44,
-      body: "Quite necessary.",
+      body: "Chills, leteral chills!",
       time: "21 min"
     },
     {
@@ -3624,13 +3617,6 @@ module.exports = {
       post_id: 16,
       body: "Inspiring",
       time: "29 min"
-    },
-    {
-      id: 38,
-      user_id: 26,
-      post_id: 17,
-      body: "This is a very inspiring story and achievement. 👏",
-      time: "2 days"
     },
     {
       id: 40,
@@ -3664,7 +3650,7 @@ module.exports = {
       id: 44,
       user_id: 28,
       post_id: 65,
-      body: "That looks awesome. Congrats! 👏👏👏",
+      body: "WOW. That looks awesome. Congrats! 👏👏👏",
       time: "2 weeks"
     },
     {
@@ -3678,7 +3664,7 @@ module.exports = {
       id: 46,
       user_id: 23,
       post_id: 64,
-      body: "I would totally use the app 🤩🤩🤩, are you planning to launch it?",
+      body: "Loved! I would totally use this 🤩🤩🤩",
       time: "1 week"
     },
     {
@@ -3692,7 +3678,7 @@ module.exports = {
       id: 48,
       user_id: 15,
       post_id: 44,
-      body: "Not gonna lie, this scene made was amazing, kudos to the writter.",
+      body: "Not gonna lie, this scene was amazing, kudos to the writters.",
       time: "35 min"
     },
     {

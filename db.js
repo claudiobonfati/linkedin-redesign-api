@@ -13,7 +13,7 @@ module.exports = {
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-01.png",
       place: "São Paulo, Brazil",
       headline: "Software Engineer",
-      summary: "Software Engineer focused on web development. Creating cool stuff and being able to see a project that I worked on being released is one of the most satisfying feelings. <br/> <br/>I've had the opportunity to work with several technologies and languages, such as Javascript, Typescript, React, Next, PHP, WordPress, Angular, SQL, NoSQL, MySQL, GraphQL, CSS/LESS/SASS, Node, Express, MongoDB, Vue, Nuxt."
+      summary: "Software Engineer focused on web development. Creating cool stuff and being able to see a project that I worked on being released is one of the most satisfying feelings. I've had the opportunity to work with several technologies and languages, such as Javascript, Typescript, React, Next, PHP, WordPress, Angular, SQL, NoSQL, MySQL, GraphQL, CSS/LESS/SASS, Node, Express, MongoDB, Vue, Nuxt."
     },
     {
       id: 2,
@@ -465,7 +465,7 @@ module.exports = {
       photo: "https://linkedinconcept.s3.amazonaws.com/pp-01.png",
       place: "São Paulo, Brazil",
       headline: "Software Engineer",
-      summary: "Software Engineer focused on web development. Creating cool stuff and being able to see a project that I worked on being released is one of the most satisfying feelings. <br/> <br/>I've had the opportunity to work with several technologies and languages, such as Javascript, Typescript, React, Next, PHP, WordPress, Angular, SQL, NoSQL, MySQL, GraphQL, CSS/LESS/SASS, Node, Express, MongoDB, Vue, Nuxt."
+      summary: "Software Engineer focused on web development. Creating cool stuff and being able to see a project that I worked on being released is one of the most satisfying feelings. I've had the opportunity to work with several technologies and languages, such as Javascript, Typescript, React, Next, PHP, WordPress, Angular, SQL, NoSQL, MySQL, GraphQL, CSS/LESS/SASS, Node, Express, MongoDB, Vue, Nuxt."
     },
     {
       id: 2,

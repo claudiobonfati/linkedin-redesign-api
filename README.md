@@ -8,8 +8,6 @@ Created with [Node](https://nodejs.org/), [Express](https://expressjs.com/) and 
 
 To run this project locally, you'll need to have a basic environment to run an Node server application, that can be found [here](https://nodejs.org/en/docs).
 
-### Installing
-
 **Cloning the repository**
 
 ```

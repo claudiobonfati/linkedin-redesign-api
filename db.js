@@ -1003,7 +1003,7 @@ module.exports = {
       followers: 849191,
       employees: 16284,
       logo: "https://linkedinconcept.s3.amazonaws.com/logo-redhat.png",
-      cover: "https://linkedinconcept.s3.amazonaws.com/cover-redhat.png",
+      cover: "https://linkedinconcept.s3.amazonaws.com/cover-redhat-2.png",
       description: "Red Hat is the world’s leading provider of enterprise open source solutions, using a community-powered approach to deliver high-performing Linux, cloud, container, and Kubernetes technologies.<br/><br/>We hire creative, passionate people who are ready to contribute their ideas, help solve complex problems, and make an impact. Opportunities are open. Join us."
     },
     {
